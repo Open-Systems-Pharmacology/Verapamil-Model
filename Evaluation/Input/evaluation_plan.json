@@ -1,0 +1,515 @@
+{
+    "$schema": "https://github.com/Open-Systems-Pharmacology/QualificationPlan/releases/download/v2.0/OSP_Qualification_Plan_Schema.json",
+    "Projects": [
+        {
+            "Id": "Verapamil",
+            "Path": "C:/Projects/Github/Verapamil/Evaluation/Input/Verapamil.json",
+            "BuildingBlocks": [],
+            "SimulationParameters": []
+        }
+    ],
+    "ObservedDataSets": [],
+    "Plots": {
+        "AxesSettings": {
+            "GOFMergedPlotsPredictedVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Concentration (mass)",
+                    "Unit": "µg/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Concentration (mass)",
+                    "Unit": "µg/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "GOFMergedPlotsResidualsOverTime": [
+                {
+                    "Type": "X",
+                    "Dimension": "Time",
+                    "Unit": "h",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                }
+            ],
+            "ComparisonTimeProfile": [
+                {
+                    "Type": "X",
+                    "Dimension": "Time",
+                    "Unit": "h",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Concentration (mass)",
+                    "Unit": "µg/l",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsPredictedVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "DDIRatioPlotsResidualsVsObserved": [
+                {
+                    "Type": "X",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ],
+            "PKRatioPlots": [
+                {
+                    "Type": "X",
+                    "Dimension": "Age",
+                    "Unit": "year(s)",
+                    "GridLines": false,
+                    "Scaling": "Linear"
+                },
+                {
+                    "Type": "Y",
+                    "Dimension": "Dimensionless",
+                    "Unit": "",
+                    "GridLines": false,
+                    "Scaling": "Log"
+                }
+            ]
+        },
+        "PlotSettings": {
+            "ChartWidth": 500,
+            "ChartHeight": 400,
+            "Fonts": {
+                "AxisSize": 11,
+                "LegendSize": 9,
+                "OriginSize": 9,
+                "FontFamilyName": "Arial",
+                "WatermarkSize": 40
+            }
+        },
+        "AllPlots": [
+            {
+                "Project": "Verapamil",
+                "Simulation": "Barbarash 1988 + McAllister 1982, 10 mg IV SD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982, 120 mg PO SD",
+                "SectionId": 331
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Freedman 1981 + Mooy 1985 + Maeda 2011, 80 mg PO SD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Freedman 1981, 13.1 mg IV SD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Johnston 1981, 0.1 mg/kg IV SD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Mooy 1985, 3 mg IV SD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Streit 2005, 5 mg IV SD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Hla 1987, 120 mg PO BID",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Joergensen 1988, 120 mg PO BID",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Shand 1981 + Johnson 2001, 120 mg PO TID",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "van Haarst 2009, 180 mg PO BID",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Karim 1995, 240 mg PO SD controlled release",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Meredith 1985, 160 mg PO SD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Backman 1994, MDZ control",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Backman 1994, MDZ + VRP",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Maeda 2011, 16 mg PO SD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Maeda 2011, 0.1 mg PO SD",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Wang 2005, MDZ + VRP",
+                "SectionId": 332
+            },
+            {
+                "Project": "Verapamil",
+                "Simulation": "Wang 2005, MDZ control",
+                "SectionId": 332
+            }
+        ],
+        "GOFMergedPlots": [
+            {
+                "Title": "Goodness of fit plor for concentration in plasma",
+                "SectionId": 32,
+                "Artifacts": [
+                    "Plot",
+                    "GMFE",
+                    "Measure"
+                ],
+                "PlotType": "predictedVsObserved|residualsOverTime",
+                "Groups": [
+                    {
+                        "Caption": "IV administration",
+                        "Symbol": "Square",
+                        "OutputMappings": [
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Barbarash 1988 + McAllister 1982, 10 mg IV SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "barbarash 1988, 10mg IV SD",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Barbarash 1988 + McAllister 1982, 10 mg IV SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "MCAllister, 1982 10m.5min",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Freedman 1981, 13.1 mg IV SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Freedman, 1981 Verapamil IV SD",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Johnston 1981, 0.1 mg/kg IV SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Johnston, 1981, IV 0.1mg Kg Single",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Mooy 1985, 3 mg IV SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Mooy, 1985 IV SD 3mg",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Mooy 1985, 3 mg IV SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Mooy, 1985, VRP renal fraction",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Mooy 1985, 3 mg IV SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Eichelbaum 1978 Verapamil fe to urine",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Streit 2005, 5 mg IV SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Streit,2005",
+                                "Color": "#FF0000"
+                            }
+                        ]
+                    },
+                    {
+                        "Caption": "PO administration",
+                        "Symbol": "Circle",
+                        "OutputMappings": [
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982, 120 mg PO SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "barbarash 1988, 120mg PO SD",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982, 120 mg PO SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Johnston, 1981, 120mg SPO VRP",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982, 120 mg PO SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "MCAllister, 1982, VRP. SD PO 120mg",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Freedman 1981 + Mooy 1985 + Maeda 2011, 80 mg PO SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Freedman, 1981 SPO 80mg",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Freedman 1981 + Mooy 1985 + Maeda 2011, 80 mg PO SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Mooy, 1985, VRP SPO 80mg",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Freedman 1981 + Mooy 1985 + Maeda 2011, 80 mg PO SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Maeda, 2011, VRP 80mg SD Po",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Hla 1987, 120 mg PO BID",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Hla, 1987, VRP, 120mg Bid, 10d, MD",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Joergensen 1988, 120 mg PO BID",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Joergensen,1988, 120 bid 8 days",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Shand 1981 + Johnson 2001, 120 mg PO TID",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "shand,1981 VRP 120mg Tid",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Shand 1981 + Johnson 2001, 120 mg PO TID",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Shand,1981 VRP SD 120mg",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Shand 1981 + Johnson 2001, 120 mg PO TID",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Johnson, 2001, 80 tid (VRP) 3 days",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "van Haarst 2009, 180 mg PO BID",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Van Haarst 2009, VRP 180mg bid MD",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Karim 1995, 240 mg PO SD controlled release",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "karim1995, VRP 240mg SD, Po",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Meredith 1985, 160 mg PO SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Meredith, 1985 160mg SPO whole blood conc.",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Maeda 2011, 16 mg PO SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Maeda, 2011, VRP 16mg SD Po",
+                                "Color": "#FF0000"
+                            },
+                            {
+                                "Project": "Verapamil",
+                                "Simulation": "Maeda 2011, 0.1 mg PO SD",
+                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
+                                "ObservedData": "Maeda, 2011, VRP 0.1mg SD Po",
+                                "Color": "#FF0000"
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "ComparisonTimeProfilePlots": [],
+        "DDIRatioPlots": [],
+        "PKRatioPlots": []
+    },
+    "Inputs": [
+        {
+            "Project": "Verapamil",
+            "Name": "Verapamil",
+            "Type": "Compound",
+            "SectionId": 31
+        },
+        {
+            "Project": "Verapamil",
+            "Name": "solution",
+            "Type": "Formulation",
+            "SectionId": 31
+        },
+        {
+            "Project": "Verapamil",
+            "Name": "controlled release",
+            "Type": "Formulation",
+            "SectionId": 31
+        }
+    ],
+    "Sections": [
+        {
+            "Id": 1,
+            "Title": "1 Introduction",
+            "Content": "Content/Section1_Introduction.md"
+        },
+        {
+            "Id": 2,
+            "Title": "2 Methods",
+            "Content": "Content/Section2_Methods.md",
+            "Sections": [
+                {
+                    "Id": 21,
+                    "Title": "2.1 Modeling Strategy",
+                    "Content": "Content/Section2.1_Modeling_Strategy.md"
+                },
+                {
+                    "Id": 22,
+                    "Title": "2.2 Data",
+                    "Content": "Content/Section2.2_Data.md"
+                },
+                {
+                    "Id": 23,
+                    "Title": "2.3 Model Parameters and Assumptions",
+                    "Content": "Content/Section2.3_Model_Parameters_and_Assumptions.md"
+                }
+            ]
+        },
+        {
+            "Id": 3,
+            "Title": "3 Results and Discussion",
+            "Content": "Content/Section3_Results_and_Discussion.md",
+            "Sections": [
+                {
+                    "Id": 31,
+                    "Title": "3.1 Final input parameters",
+                    "Content": "Content/Input_table.md"
+                },
+                {
+                    "Id": 32,
+                    "Title": "3.2 Diagnostics Plots",
+                    "Content": "Content/GOF_diagnostics.md"
+                },
+                {
+                    "Id": 33,
+                    "Title": "3.3: Concentration-Time Profiles",
+                    "Content": "Content/Concentration_time_profiles.md",
+                    "Sections": [
+                        {
+                            "Id": 331,
+                            "Title": "3.3.1 Model Building",
+                            "Content": "Content/Concentration_time_profiles_building.md"
+                        },
+                        {
+                            "Id": 332,
+                            "Title": "3.3.2 Model verification",
+                            "Content": "Content/Concentration_time_profiles_verification.md"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "Id": 4,
+            "Title": "4 Conclusion",
+            "Content": "Content/Section4_Conclusion.md"
+        },
+        {
+            "Id": 5,
+            "Title": "5 References",
+            "Content": "Content/References.md"
+        }
+    ],
+    "Intro": [
+        {
+            "Path": "Content/titlepage.md"
+        }
+    ]
+}
