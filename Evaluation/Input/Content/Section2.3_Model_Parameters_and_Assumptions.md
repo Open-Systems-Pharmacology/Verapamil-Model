@@ -10,7 +10,7 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 Verapamil is metabolized by CYP3A4  and CYP2C8. 
 
-Mechanism-based inactivation of CYP3A4  ([Rowland-Yeo 2011](# 5 References)) was taken into account.
+Mechanism-based inactivation of CYP3A4  ([Rowland-Yeo 2011](#5-References)) was taken into account.
 
 ### 2.3.4	Automated Parameter Identification
 

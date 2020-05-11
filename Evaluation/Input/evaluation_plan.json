@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Verapamil",
-            "Path": "C:/Projects/Github/Verapamil/Evaluation/Input/Verapamil.json",
+            "Path": "C:/Projects/Github/Verapamil/Verapamil.json",
             "BuildingBlocks": [],
             "SimulationParameters": []
         }
@@ -122,97 +122,62 @@
         "AllPlots": [
             {
                 "Project": "Verapamil",
-                "Simulation": "Barbarash 1988 + McAllister 1982, 10 mg IV SD",
+                "Simulation": "Barbarash 1988 + McAllister 1982 (10 mg IV SD)",
                 "SectionId": 331
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982, 120 mg PO SD",
+                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982 +Hla 1987 (120 mg PO SD)",
                 "SectionId": 331
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Freedman 1981 + Mooy 1985 + Maeda 2011, 80 mg PO SD",
+                "Simulation": "Johnston 1981 (0.1 mg/kg IV SD)",
                 "SectionId": 332
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Freedman 1981, 13.1 mg IV SD",
+                "Simulation": "Streit 2005 (5 mg IV SD)",
                 "SectionId": 332
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Johnston 1981, 0.1 mg/kg IV SD",
+                "Simulation": "Maeda 2011 (0.1 mg PO SD)",
                 "SectionId": 332
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Mooy 1985, 3 mg IV SD",
+                "Simulation": "Maeda 2011 (16 mg PO SD)",
                 "SectionId": 332
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Streit 2005, 5 mg IV SD",
+                "Simulation": "Maeda 2011 (80 mg PO SD)",
                 "SectionId": 332
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Hla 1987, 120 mg PO BID",
+                "Simulation": "Johnson 2001 (80 mg PO TID)",
                 "SectionId": 332
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Joergensen 1988, 120 mg PO BID",
+                "Simulation": "Hla 1987 (120 mg PO BID)",
                 "SectionId": 332
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Shand 1981 + Johnson 2001, 120 mg PO TID",
+                "Simulation": "Jorgensen 1988 (120 mg PO BID)",
                 "SectionId": 332
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "van Haarst 2009, 180 mg PO BID",
+                "Simulation": "Shand 1981 (120 mg PO TID)",
                 "SectionId": 332
             },
             {
                 "Project": "Verapamil",
-                "Simulation": "Karim 1995, 240 mg PO SD controlled release",
-                "SectionId": 332
-            },
-            {
-                "Project": "Verapamil",
-                "Simulation": "Meredith 1985, 160 mg PO SD",
-                "SectionId": 332
-            },
-            {
-                "Project": "Verapamil",
-                "Simulation": "Backman 1994, MDZ control",
-                "SectionId": 332
-            },
-            {
-                "Project": "Verapamil",
-                "Simulation": "Backman 1994, MDZ + VRP",
-                "SectionId": 332
-            },
-            {
-                "Project": "Verapamil",
-                "Simulation": "Maeda 2011, 16 mg PO SD",
-                "SectionId": 332
-            },
-            {
-                "Project": "Verapamil",
-                "Simulation": "Maeda 2011, 0.1 mg PO SD",
-                "SectionId": 332
-            },
-            {
-                "Project": "Verapamil",
-                "Simulation": "Wang 2005, MDZ + VRP",
-                "SectionId": 332
-            },
-            {
-                "Project": "Verapamil",
-                "Simulation": "Wang 2005, MDZ control",
+                "Simulation": "Karim 1995 (240 mg PO SD controlled release)",
                 "SectionId": 332
             }
         ],
@@ -233,58 +198,30 @@
                         "OutputMappings": [
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Barbarash 1988 + McAllister 1982, 10 mg IV SD",
+                                "Simulation": "Barbarash 1988 + McAllister 1982 (10 mg IV SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "barbarash 1988, 10mg IV SD",
+                                "ObservedData": "McAllister 1982 - Verapamil 10 mg IV - Verapamil - IV - 10 mg - Plasma - agg. (n=20)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Barbarash 1988 + McAllister 1982, 10 mg IV SD",
+                                "Simulation": "Barbarash 1988 + McAllister 1982 (10 mg IV SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "MCAllister, 1982 10m.5min",
+                                "ObservedData": "Barbarash 1988 - Verapamil IV control - Verapamil - IV - 10 mg - Serum - agg. (n=6)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Freedman 1981, 13.1 mg IV SD",
+                                "Simulation": "Johnston 1981 (0.1 mg/kg IV SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Freedman, 1981 Verapamil IV SD",
+                                "ObservedData": "Johnston 1981 - Verapamil IV - Verapamil - IV - 0.1 mg/kg - Plasma - agg. (n=6)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Johnston 1981, 0.1 mg/kg IV SD",
+                                "Simulation": "Streit 2005 (5 mg IV SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Johnston, 1981, IV 0.1mg Kg Single",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Verapamil",
-                                "Simulation": "Mooy 1985, 3 mg IV SD",
-                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Mooy, 1985 IV SD 3mg",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Verapamil",
-                                "Simulation": "Mooy 1985, 3 mg IV SD",
-                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Mooy, 1985, VRP renal fraction",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Verapamil",
-                                "Simulation": "Mooy 1985, 3 mg IV SD",
-                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Eichelbaum 1978 Verapamil fe to urine",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Verapamil",
-                                "Simulation": "Streit 2005, 5 mg IV SD",
-                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Streit,2005",
+                                "ObservedData": "Streit 2005 - intravenous verapamil during normoxia (5 mg) - Verapamil - IV - 5 mg - Plasma - agg. (n=10)",
                                 "Color": "#FF0000"
                             }
                         ]
@@ -295,114 +232,93 @@
                         "OutputMappings": [
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982, 120 mg PO SD",
+                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982 +Hla 1987 (120 mg PO SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "barbarash 1988, 120mg PO SD",
+                                "ObservedData": "Johnston 1981 - Verapamil PO - Verapamil - PO - 120 mg - Plasma - agg. (n=6)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982, 120 mg PO SD",
+                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982 +Hla 1987 (120 mg PO SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Johnston, 1981, 120mg SPO VRP",
+                                "ObservedData": "McAllister 1982 - Verapamil 120 mg PO - Verapamil - PO - 120 mg - Plasma - agg. (n=20)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982, 120 mg PO SD",
+                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982 +Hla 1987 (120 mg PO SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "MCAllister, 1982, VRP. SD PO 120mg",
+                                "ObservedData": "Hla 1987 - conventional Verapamil 120mg once daily (day 1) - Verapamil - PO - 120 mg - Plasma - agg. (n=10)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Freedman 1981 + Mooy 1985 + Maeda 2011, 80 mg PO SD",
+                                "Simulation": "Barbarash 1988 + Johnston 1981 + McAllister 1982 +Hla 1987 (120 mg PO SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Freedman, 1981 SPO 80mg",
+                                "ObservedData": "Barbarash 1988 - Verapamil PO control - Verapamil - PO - 120 mg - Serum - agg. (n=6)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Freedman 1981 + Mooy 1985 + Maeda 2011, 80 mg PO SD",
+                                "Simulation": "Maeda 2011 (80 mg PO SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Mooy, 1985, VRP SPO 80mg",
+                                "ObservedData": "Maeda 2011 - Verapamil 80 mg - Verapamil - PO - 80 mg - Plasma - agg. (n=8)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Freedman 1981 + Mooy 1985 + Maeda 2011, 80 mg PO SD",
+                                "Simulation": "Hla 1987 (120 mg PO BID)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Maeda, 2011, VRP 80mg SD Po",
+                                "ObservedData": "Hla 1987 - conventional Verapamil 120mg twice daily (day 10) - Verapamil - PO - 120 mg - Plasma - agg. (n=10)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Hla 1987, 120 mg PO BID",
+                                "Simulation": "Jorgensen 1988 (120 mg PO BID)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Hla, 1987, VRP, 120mg Bid, 10d, MD",
+                                "ObservedData": "Jorgensen 1988 - Conventional Verapamil 120 mg BID (day 8) - Verapamil - PO - 120 mg - Plasma - agg. (n=12)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Joergensen 1988, 120 mg PO BID",
+                                "Simulation": "Shand 1981 (120 mg PO TID)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Joergensen,1988, 120 bid 8 days",
+                                "ObservedData": "Shand 1981 - Verapamil day 1 - Verapamil - PO - 120 mg - Plasma - agg. (n=6)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Shand 1981 + Johnson 2001, 120 mg PO TID",
+                                "Simulation": "Shand 1981 (120 mg PO TID)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "shand,1981 VRP 120mg Tid",
+                                "ObservedData": "Shand 1981 - Verapamil day 3 (after 7th dose) - Verapamil - PO - 120 mg - Plasma - agg. (n=6)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Shand 1981 + Johnson 2001, 120 mg PO TID",
+                                "Simulation": "Karim 1995 (240 mg PO SD controlled release)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Shand,1981 VRP SD 120mg",
+                                "ObservedData": "Karim 1995 - Verapamil total IR fasting - Verapamil - PO - 240 mg - Plasma - agg. (n=12)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Shand 1981 + Johnson 2001, 120 mg PO TID",
+                                "Simulation": "Maeda 2011 (16 mg PO SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Johnson, 2001, 80 tid (VRP) 3 days",
+                                "ObservedData": "Maeda 2011 - Verapamil 16 mg - Verapamil - PO - 16 mg - Plasma - agg. (n=8)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "van Haarst 2009, 180 mg PO BID",
+                                "Simulation": "Maeda 2011 (0.1 mg PO SD)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Van Haarst 2009, VRP 180mg bid MD",
+                                "ObservedData": "Maeda 2011 - Verapamil 100 Âµg - Verapamil - PO - 0.1 mg - Plasma - agg. (n=8)",
                                 "Color": "#FF0000"
                             },
                             {
                                 "Project": "Verapamil",
-                                "Simulation": "Karim 1995, 240 mg PO SD controlled release",
+                                "Simulation": "Johnson 2001 (80 mg PO TID)",
                                 "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "karim1995, VRP 240mg SD, Po",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Verapamil",
-                                "Simulation": "Meredith 1985, 160 mg PO SD",
-                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Meredith, 1985 160mg SPO whole blood conc.",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Verapamil",
-                                "Simulation": "Maeda 2011, 16 mg PO SD",
-                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Maeda, 2011, VRP 16mg SD Po",
-                                "Color": "#FF0000"
-                            },
-                            {
-                                "Project": "Verapamil",
-                                "Simulation": "Maeda 2011, 0.1 mg PO SD",
-                                "Output": "Organism|PeripheralVenousBlood|Verapamil|Plasma (Peripheral Venous Blood)",
-                                "ObservedData": "Maeda, 2011, VRP 0.1mg SD Po",
+                                "ObservedData": "Johnson 2001 - Verapamil Steady State - Verapamil - PO - 80 mg - Plasma - agg. (n=12)",
                                 "Color": "#FF0000"
                             }
                         ]

@@ -22,11 +22,7 @@
 
 **McAllister 1982** McAllister RG Jr, Kirsten EB. The pharmacology of verapamil. IV. Kinetic and dynamic effects after single intravenous and oral doses. Clin Pharmacol Ther. 1982 Apr;31(4):418-26. PubMed PMID: 7060323.
 
-**Freedman 1981** Freedman SB, Richmond DR, Ashley JJ, Kelly DT. Verapamil kinetics in normal subjects and patients with coronary artery spasm. Clin Pharmacol Ther. 1981 Nov;30(5):644-52. PubMed PMID: 7297023.
-
 **Maeda 2011** Maeda K, Takano J, Ikeda Y, Fujita T, Oyama Y, Nozawa K, Kumagai Y, Sugiyama Y. Nonlinear pharmacokinetics of oral quinidine and verapamil in healthy subjects: a clinical microdosing study. Clin Pharmacol Ther. 2011 Aug;90(2):263-70. doi: 10.1038/clpt.2011.108. Epub 2011 Jun 29. PubMed PMID: 21716273.
-
-**Mooy 1985** Mooy J, Schols M, v Baak M, v Hooff M, Muytjens A, Rahn KH. Pharmacokinetics of verapamil in patients with renal failure. Eur J Clin Pharmacol. 1985;28(4):405-10. PubMed PMID: 4029246.
 
 **Streit 2005** Streit M, Göggelmann C, Dehnert C, Burhenne J, Riedel KD, Menold E, Mikus G, Bärtsch P, Haefeli WE. Cytochrome P450 enzyme-mediated drug metabolism at exposure to acute hypoxia (corresponding to an altitude of 4,500 m). Eur J Clin Pharmacol. 2005 Mar;61(1):39-46. Epub 2005 Feb 4. PubMed PMID: 15692829.
 
@@ -38,10 +34,6 @@
 
 **Johnson 2001** Johnson BF, Cheng SL, Venitz J. Transient kinetic and dynamic interactions between verapamil and dofetilide, a class III antiarrhythmic. J Clin Pharmacol. 2001 Nov;41(11):1248-56. PubMed PMID: 11697758.
 
-**van Haarst 2009** van Haarst AD, Dijkmans AC, Weimann HJ, Kemme MJ, Bosch JJ, Schoemaker RC, Cohen AF, Burggraaf J. Clinically important interaction between tedisamil and verapamil. J Clin Pharmacol. 2009 May;49(5):560-7. doi: 10.1177/0091270009332812. Epub 2009 Mar 19. PubMed PMID: 19299533
-
 **Karim 1995** Karim A, Piergies A. Verapamil stereoisomerism: enantiomeric ratios in plasma dependent on peak concentrations, oral input rate, or both. Clin Pharmacol Ther. 1995 Aug;58(2):174-84. PubMed PMID: 7648767.
-
-**Meredith 1985** Meredith PA, Elliott HL, Pasanisi F, Kelman AW, Sumner DJ, Reid JL. Verapamil pharmacokinetics and apparent hepatic and renal blood flow. Br J Clin Pharmacol. 1985 Aug;20(2):101-6. PubMed PMID: 4041329; PubMed Central PMCID: PMC1400678.
 
 **Rowland-Yeo 2011** Rowland Yeo K, Walsky RL, Jamei M, Rostami-Hodjegan A, Tucker GT. Prediction of time-dependent CYP3A4 drug-drug interactions by physiologically based pharmacokinetic modelling: impact of inactivation parameters and enzyme turnover. Eur J Pharm Sci. 2011 Jun 14;43(3):160-73. doi: 10.1016/j.ejps.2011.04.008. Epub 2011 Apr 20. PubMed PMID: 21540107.
