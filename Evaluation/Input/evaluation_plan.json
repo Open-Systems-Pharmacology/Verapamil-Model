@@ -3,7 +3,7 @@
     "Projects": [
         {
             "Id": "Verapamil",
-            "Path": "C:/Projects/Github/Verapamil/Verapamil-Model.json",
+            "Path": "../../Verapamil-Model.json",
             "BuildingBlocks": [],
             "SimulationParameters": []
         }
