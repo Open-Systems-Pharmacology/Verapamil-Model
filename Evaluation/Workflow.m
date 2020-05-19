@@ -15,10 +15,10 @@ qualificationRunnerFolder = 'C:\Open Systems Pharmacology\QualificationRunner 8.
 markdownJoinerFolder = 'C:\Open Systems Pharmacology\markdown-joiner';
 
 % --------------------------------------------------------------
-% replace basisDir and qualificationPlanName with your paths
+% replace baseDir and qualificationPlanName with your paths
 %
 % assuming the following structure
-%   basisDir
+%   baseDir
 %   - input
 %      - qualificationPlanName
 %   - re_input
@@ -26,7 +26,7 @@ markdownJoinerFolder = 'C:\Open Systems Pharmacology\markdown-joiner';
 %   - report
 %
 
-basisDir = fullfile(cd);
+baseDir = fullfile(cd);
 qualificationPlanName = 'evaluation_plan.json';
 
 % In case your folder structure is different from assumed above, 
@@ -39,10 +39,10 @@ qualificationPlanName = 'evaluation_plan.json';
 %                  CAUTION: if the folder is not empty, its contents will be deleted
 %
 % - ReportOutput_path: final report will be generated here
-qualificationPlan = fullfile(basisDir,'input',qualificationPlanName);
-REInput_path = fullfile(basisDir,'re_input');
-REOutput_path = fullfile(basisDir,'re_output');
-ReportOutput_path=fullfile(basisDir,'report');
+qualificationPlan = fullfile(baseDir,'input',qualificationPlanName);
+REInput_path = fullfile(baseDir,'re_input');
+REOutput_path = fullfile(baseDir,'re_output');
+ReportOutput_path=fullfile(baseDir,'report');
 
 % --------------------------------------------------------------
 % STEP #1: start qualification runner to generate inputs for the reporting engine
@@ -55,7 +55,7 @@ reportConfigurationPlan = 'report-configuration-plan.json';
 [WSettings, ConfigurationPlan, TaskList, ObservedDataSets] = initializeQualificationWorkflow(reportConfigurationPlan, REInput_path, REOutput_path);
 
 %OPTIONAL: set watermark. If set, it will appear in all generated plots
-%WSettings.Watermark = 'Preliminary';
+WSettings.Watermark = '';
 
 % run the Worklfow tasklist of ConfigurationPlan
 runQualificationWorkflow(WSettings, ConfigurationPlan, TaskList, ObservedDataSets);
