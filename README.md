@@ -1,7 +1,7 @@
 # Verapamil-Model
 Whole-body PBPK model of verapamil as CYP3A4 perpetrator drug 
 
-<a title="Vaccinationist / Public domain" href="https://commons.wikimedia.org/wiki/File:Verapamil_structure.svg"><img width="512" alt="Verapamil structure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Verapamil_structure.svg/512px-Verapamil_structure.svg.png"></a>
+<a title="Verapamil" href="https://commons.wikimedia.org/wiki/File:Verapamil_structure.svg"><img width="512" alt="Verapamil structure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Verapamil_structure.svg/512px-Verapamil_structure.svg.png"></a>
 
 
 
