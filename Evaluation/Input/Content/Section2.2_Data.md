@@ -9,7 +9,7 @@ A literature search was performed to collect available information on physiochem
 | Solubility (pH) | mg/L     | 46.0 | [Heikkinen 2012](#5-References) | Water solubility                               |
 | logP            |  | 2.7                       | [Sandström 1999](#5-References) | Partition coefficient between octanol and water |
 | fu              |         | 0.1 | [Vogelpoel 2004](#5-References) | Fraction unbound in plasma                      |
-| KI             | µmol/L | 1.2 | [Rowland-Yeo 2011](#5-References) | Inhibition constant    |
+| K<sub>I</sub> | µmol/L | 1.2 | [Rowland-Yeo 2011](#5-References) | Inhibition constant for mechanism-based inactivation |
 
 
 ### 2.2.2	Clinical Data
