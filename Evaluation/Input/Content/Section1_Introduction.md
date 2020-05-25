@@ -6,4 +6,4 @@ The presented verapamil model was established using observed concentration-time 
 
 The herein presented model building and evaluation report evaluates the performance of the PBPK model for verapamil in (healthy) adults. 
 
-The established erythromycin PBPK model is verified for the use as a perpetrator drug in drug-drug interaction simulations.
+The established verapamil PBPK model is verified for the use as a perpetrator drug in drug-drug interaction simulations.
