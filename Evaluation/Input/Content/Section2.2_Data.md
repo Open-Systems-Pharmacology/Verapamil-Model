@@ -1,4 +1,4 @@
-### 2.2.1	In vitro / physico-chemical Data
+### 2.2.1 In vitro / physico-chemical Data
 
 A literature search was performed to collect available information on physiochemical properties of verapamil. The obtained information from literature is summarized in the table below. 
 
@@ -9,14 +9,15 @@ A literature search was performed to collect available information on physiochem
 | Solubility (pH) | mg/L     | 46.0 | [Heikkinen 2012](#5-References) | Water solubility                               |
 | logP            |  | 2.7                       | [Sandström 1999](#5-References) | Partition coefficient between octanol and water |
 | fu              |         | 0.1 | [Vogelpoel 2004](#5-References) | Fraction unbound in plasma                      |
-| K<sub>I</sub> | µmol/L | 1.2 | [Rowland-Yeo 2011](#5-References) | Inhibition constant for mechanism-based inactivation |
+| KI             | µmol/L | 1.2 | [Rowland-Yeo 2011](#5-References) | Inhibition constant    |
+| kinact   		| 1/h | 2.8 | [Rowland-Yeo 2011](#5-References) | Rate of enzyme inactivation   |
 
 
-### 2.2.2	Clinical Data
+### 2.2.2 Clinical Data
 
 A literature search was performed to collect available clinical data on verapamil in healthy adults.
 
-#### 2.2.2.1	Model Building and parameterizing of CYP3A4 interaction
+#### 2.2.2.1 Model Building and parameterizing of CYP3A4 interaction
 
 The following studies were used for model building and parameterization of CYP3A4 interaction:
 
@@ -29,7 +30,7 @@ The following studies were used for model building and parameterization of CYP3A
 
 
 
-#### 2.2.2.2	Model verification 
+#### 2.2.2.2 Model verification 
 
 The following studies were used for model verification:
 

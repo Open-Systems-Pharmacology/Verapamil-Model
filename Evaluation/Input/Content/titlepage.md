@@ -2,11 +2,11 @@
 
 
 
-| Version                                         | x.x-OSPy.y                                                   |
+| Version                                         | 1.0-OSP9.0                                                   |
 | ----------------------------------------------- | ------------------------------------------------------------ |
-| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Verapamil-Model/releases/tag/vx.x |
-| OSP Version                                     | y.y                                                          |
-| Qualification Framework Version                 | z.z                                                          |
+| based on *Model Snapshot* and *Evaluation Plan* | https://github.com/Open-Systems-Pharmacology/Verapamil-Model/releases/tag/v1.0 |
+| OSP Version                                     | 9.0                                                          |
+| Qualification Framework Version                 | 2.2                                                          |
 
 
 
