@@ -36,7 +36,7 @@ The following studies were used for model verification:
 
 | Publication                      | Arm / Treatment / Information used for model building        |
 | :------------------------------- | :----------------------------------------------------------- |
-| [Maeda 2011](#5References)      | Healthy subjects receiving single oral doses of 80 mg |
+| [Maeda 2011](#5-References)      | Healthy subjects receiving single oral doses of 80 mg |
 | [Streit 2005](#5-References)    | Healthy subjects receiving single intravenous doses of 5 mg |
 | [Hla 1987](#5-References)       | Healthy subjects receiving multiple oral doses of 120 mg BID |
 | [Joergenson 1988](#5-References) | Healthy subjects receiving multiple oral doses of 120 mg BID |
