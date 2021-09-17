@@ -10,7 +10,7 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 Verapamil is metabolized by CYP3A4  and CYP2C8. 
 
-Mechanism-based inactivation of CYP3A4  was taken into account. KI was taken from literature ([Rowland-Yeo 2011](#5-References)), kinact was optimized.
+Mechanism-based inactivation of CYP3A4  was taken into account. KI was taken from literature ([Rowland-Yeo 2011](#5-references)), kinact was optimized.
 
 The first model simulations showed that gut wall metabolization was too low in the PBPK model. In order to increase gut wall metabolization, the “mucosa permeability on basolateral side” (jointly the model parameters in the mucosa: ``P (interstitial->intracellular)`` and ``P (intracellular->interstitial)``) was estimated. This may lead to higher gut wall concentrations and, in turn, to a higher gut wall elimination.
 
