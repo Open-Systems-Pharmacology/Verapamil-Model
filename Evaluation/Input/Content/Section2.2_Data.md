@@ -5,12 +5,12 @@ A literature search was performed to collect available information on physiochem
 | **Parameter**   | **Unit** | **Value**       | Source                                                       | **Description**                                 |
 | :-------------- | -------- | --------------- | ------------------------------------------------------------ | ----------------------------------------------- |
 | MW              | g/mol    | 454.6     | https://www.drugbank.ca/                                     | Molecular weight                                |
-| pK<sub>a</sub>  | 8.92  | (base)          | [Perdaems 2010](#5-References)               | Acid dissociation constant                      |
-| Solubility (pH) | mg/L     | 46.0 | [Heikkinen 2012](#5-References) | Water solubility                               |
-| logP            |  | 2.7                       | [Sandström 1999](#5-References) | Partition coefficient between octanol and water |
-| fu              |         | 0.1 | [Vogelpoel 2004](#5-References) | Fraction unbound in plasma                      |
-| KI             | µmol/L | 1.2 | [Rowland-Yeo 2011](#5-References) | Inhibition constant    |
-| kinact   		| 1/h | 2.8 | [Rowland-Yeo 2011](#5-References) | Rate of enzyme inactivation   |
+| pK<sub>a</sub>  | 8.92  | (base)          | [Perdaems 2010](#5-references)               | Acid dissociation constant                      |
+| Solubility (pH) | mg/L     | 46.0 | [Heikkinen 2012](#5-references) | Water solubility                               |
+| logP            |  | 2.7                       | [Sandström 1999](#5-references) | Partition coefficient between octanol and water |
+| fu              |         | 0.1 | [Vogelpoel 2004](#5-references) | Fraction unbound in plasma                      |
+| KI             | µmol/L | 1.2 | [Rowland-Yeo 2011](#5-references) | Inhibition constant    |
+| kinact   		| 1/h | 2.8 | [Rowland-Yeo 2011](#5-references) | Rate of enzyme inactivation   |
 
 
 ### 2.2.2 Clinical Data
@@ -23,9 +23,9 @@ The following studies were used for model building and parameterization of CYP3A
 
 | Publication                      | Arm / Treatment / Information used for model building        |
 | :------------------------------- | :----------------------------------------------------------- |
-| [Barbarash 1988](#5-References)  | Healthy subjects receiving single intravenous doses of 10 mg and single oral doses of 120 mg |
-| [Johnston 1981](#5-References)   | Healthy subjects receiving single intravenous doses of 0.1 mg/kg and single oral doses of 120 mg |
-| [McAllister 1982](#5-References) | Healthy subjects receiving single intravenous doses of 10 mg and single oral doses of 120 mg |
+| [Barbarash 1988](#5-references)  | Healthy subjects receiving single intravenous doses of 10 mg and single oral doses of 120 mg |
+| [Johnston 1981](#5-references)   | Healthy subjects receiving single intravenous doses of 0.1 mg/kg and single oral doses of 120 mg |
+| [McAllister 1982](#5-references) | Healthy subjects receiving single intravenous doses of 10 mg and single oral doses of 120 mg |
 
 
 
@@ -36,12 +36,12 @@ The following studies were used for model verification:
 
 | Publication                      | Arm / Treatment / Information used for model building        |
 | :------------------------------- | :----------------------------------------------------------- |
-| [Maeda 2011](#5-References)      | Healthy subjects receiving single oral doses of 80 mg |
-| [Streit 2005](#5-References)    | Healthy subjects receiving single intravenous doses of 5 mg |
-| [Hla 1987](#5-References)       | Healthy subjects receiving multiple oral doses of 120 mg BID |
-| [Joergenson 1988](#5-References) | Healthy subjects receiving multiple oral doses of 120 mg BID |
-| [Shand 1981](#5-References)     | Healthy subjects receiving multiple oral doses of 120 mg TID |
-| [Johnson 2001](#5-References)   | Healthy subjects receiving multiple oral doses of 400 mg verapamil  QD. On day 14, subjects receive a single oral verapamil dose of 3 mg. |
-| [Karim 1995](#5-References)     | Healthy subjects receiving single oral doses of 240 mg |
+| [Maeda 2011](#5-references)      | Healthy subjects receiving single oral doses of 80 mg |
+| [Streit 2005](#5-references)    | Healthy subjects receiving single intravenous doses of 5 mg |
+| [Hla 1987](#5-references)       | Healthy subjects receiving multiple oral doses of 120 mg BID |
+| [Joergenson 1988](#5-references) | Healthy subjects receiving multiple oral doses of 120 mg BID |
+| [Shand 1981](#5-references)     | Healthy subjects receiving multiple oral doses of 120 mg TID |
+| [Johnson 2001](#5-references)   | Healthy subjects receiving multiple oral doses of 400 mg verapamil  QD. On day 14, subjects receive a single oral verapamil dose of 3 mg. |
+| [Karim 1995](#5-references)     | Healthy subjects receiving single oral doses of 240 mg |
 
 
