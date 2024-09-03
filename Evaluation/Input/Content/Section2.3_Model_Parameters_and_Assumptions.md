@@ -1,30 +1,77 @@
-### 2.3.1 Absorption
+﻿### Absorption
 
 Absorption observed in clinical studies can be fully explained by passive absorption.
 
-### 2.3.2 Distribution
+### Distribution
 
 After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim, observed clinical data was best described by choosing the partition coefficient calculation by `Rodgers and Rowland` and cellular permeability calculation by `PK-Sim Standard`. 
 
-### 2.3.3 Metabolism, Elimination and Induction
+### Metabolism, Elimination and Induction
 
-Verapamil is metabolized by CYP3A4  and CYP2C8. 
+Verapamil is metabolized by CYP3A4 and transported by P-gp. The model includes enantioselective metabolism by CYP3A4, non-stereospecific P-gp transport. Additionally passive glomerular filtration was integrated. 
 
-Mechanism-based inactivation of CYP3A4  was taken into account. KI was taken from literature ([Rowland-Yeo 2011](#5-references)), kinact was optimized.
+Mechanism-based inactivation of CYP3A4 and non-competitive inhibition of P-gp by all four entities (S-verapamil, R-verapamil, S-norverapamil and R-norverapamil) was taken into account. The CYP3A4 MBI KI and kinact values were taken from literature, the KI values for P-gp inhibition were optimized.
 
-The first model simulations showed that gut wall metabolization was too low in the PBPK model. In order to increase gut wall metabolization, the “mucosa permeability on basolateral side” (jointly the model parameters in the mucosa: ``P (interstitial->intracellular)`` and ``P (intracellular->interstitial)``) was estimated. This may lead to higher gut wall concentrations and, in turn, to a higher gut wall elimination.
 
-### 2.3.4 Automated Parameter Identification
+### Automated Parameter Identification
 
 The parameter identification tool in PK-Sim has been used to estimate selected model parameters by adjusting to PK data of the clinical studies that were used in the model building process. 
 
-The result of the final parameter identification is shown in the table below:
+The result of the final parameter identification is shown in the tables below:
+
+
+#### R-verapamil
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |
-| Specific intestinal permeability | 1.6341738226E-05 | cm/min |
-| Solubility at reference pH | 43514.8753161441 | mg/l |
-| kinact CYP3A4 | 0.0376212371 | 1/min |
-| Basolateral mucosa permeability (``P (interstitial->intracellular)``, ``P (intracellular->interstitial)``)| 5.415E-4 | cm/min |
-| CYP3A4 - CLspec | 4.6482034823 | l/µmol/min |
-| CYP2C8 - CLspec | 0.3179498362 | l/µmol/min |
+| logP            		|  2.84  	||
+| CYP3A4 kcat -> Norvera        |  34.94 	|1/min|
+| CYP3A4 kcat -> D617           |  43.98	|1/min|
+| P-gp kcat            		|  12.60	|1/min|
+| Pgp non-competitive Ki        |  0.038	|µmol/L|
+| Cellular permeability         |  9.94E-02	|cm/min|
+| Intestinal permeability       |  3.54E-06	|cm/min|
+| SR tablet Weibull time        |  155.24	|min|
+| SR tablet Weibull shape       |  2.37		| |
+
+
+#### S-verapamil
+
+| Model Parameter            | Optimized Value | Unit |
+| -------------------------- | --------------- | ---- |
+| logP            		|  2.84  	||
+| CYP3A4 kcat -> Norvera        |  26.17 	|1/min|
+| CYP3A4 kcat -> D617           |  56.42	|1/min|
+| P-gp kcat            		|  12.60	|1/min|
+| Pgp non-competitive Ki        |  0.038	|µmol/L|
+| Cellular permeability         |  9.94E-02	|cm/min|
+| Intestinal permeability       |  3.54E-06	|cm/min|
+| SR tablet Weibull time        |  155.24	|min|
+| SR tablet Weibull shape       |  2.37		| |
+
+
+#### R-norverapamil
+
+| Model Parameter            | Optimized Value | Unit |
+| -------------------------- | --------------- | ---- |
+| logP            		|  2.84  	||
+| CYP3A4 kcat -> D620           |  145.64	|1/min|
+| P-gp kcat            		|  3.39		|1/min|
+| Pgp non-competitive Ki        |  0.038	|µmol/L|
+| Cellular permeability         |  9.94E-02	|cm/min|
+| Intestinal permeability       |  3.54E-06	|cm/min|
+
+
+
+#### S-norverapamil
+
+| Model Parameter            | Optimized Value | Unit |
+| -------------------------- | --------------- | ---- |
+| logP            		|  2.84  	||
+| CYP3A4 kcat -> D620           |  41.10	|1/min|
+| P-gp kcat            		|  3.39		|1/min|
+| Pgp non-competitive Ki        |  0.038	|µmol/L|
+| Cellular permeability         |  9.94E-02	|cm/min|
+| Intestinal permeability       |  3.54E-06	|cm/min|
+
+
