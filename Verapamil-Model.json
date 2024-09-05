@@ -16243,7 +16243,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 168.0,
+              "Value": 0.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -16290,7 +16290,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 168.0,
+              "Value": 0.0,
               "Unit": "h",
               "ValueOrigin": {
                 "Source": "Unknown"
@@ -16904,7 +16904,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 168.0,
+              "Value": 0.0,
               "Unit": "h"
             },
             {
@@ -16953,7 +16953,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 168.0,
+              "Value": 0.0,
               "Unit": "h"
             },
             {
@@ -17003,7 +17003,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 168.0,
+              "Value": 0.0,
               "Unit": "h"
             },
             {
@@ -17053,7 +17053,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 168.0,
+              "Value": 0.0,
               "Unit": "h"
             },
             {
@@ -17147,7 +17147,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 168.0,
+              "Value": 0.0,
               "Unit": "h"
             },
             {
@@ -17197,7 +17197,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 168.0,
+              "Value": 0.0,
               "Unit": "h"
             },
             {
@@ -18325,7 +18325,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 144.5,
+              "Value": 0.0,
               "Unit": "h"
             },
             {
@@ -18375,7 +18375,7 @@
           "Parameters": [
             {
               "Name": "Start time",
-              "Value": 144.5,
+              "Value": 0.0,
               "Unit": "h"
             },
             {
@@ -20090,7 +20090,7 @@
       ]
     },
     {
-      "Name": "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19",
+      "Name": "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19",
       "Model": "4Comp",
       "ObservedData": [
         "Härtter et al. 2012 - 120mg po SD - R-Norverapamil - PO - 120 mg - Plasma - agg. (n=19)",
@@ -20386,36 +20386,36 @@
           ],
           "Curves": [
             {
-              "Name": "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19-R-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19-R-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19|Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+              "Y": "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19|Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF8000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19-R-Norverapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19-R-Norverapamil-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19|Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
+              "Y": "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19|Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#ECD33A",
                 "LegendIndex": 5
               }
             },
             {
-              "Name": "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19-S-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19-S-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19|Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
+              "Y": "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19|Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#76923C",
                 "LegendIndex": 7
               }
             },
             {
-              "Name": "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19-S-Norverapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19-S-Norverapamil-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19|Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
+              "Y": "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19|Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#0000C0",
                 "LegendIndex": 8
@@ -20798,8 +20798,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -0.729940057,
-              "Max": 20.3765087,
+              "Min": -0.7299401,
+              "Max": 20.37651,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -20811,8 +20811,8 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.00251539215,
-              "Max": 34.867466,
+              "Min": 0.002515392,
+              "Max": 34.86747,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -21211,8 +21211,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -4.60854673,
-              "Max": 159.393036,
+              "Min": -4.608547,
+              "Max": 159.393,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -21224,8 +21224,8 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 13.0304928,
-              "Max": 294.357727,
+              "Min": 13.03049,
+              "Max": 294.3577,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -21271,433 +21271,6 @@
             "DiagramBackColor": "#FFFFFF"
           },
           "OriginText": "Verapamil-Model\npo_Verapamil 240 mg QD (SR), Blume, Mutschler 1994, n=24\n2022-01-18 15:32"
-        }
-      ],
-      "Interactions": [
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Norverapamil"
-        }
-      ]
-    },
-    {
-      "Name": "iv_Verapamil 10 mg (bol), Smith 1984, n=8",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 168.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 10.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 168.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 169.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 100.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 169.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 200.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 10.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "iv_Verapamil 10 mg (bol), Smith 1984, n=8|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)"
-        }
-      ],
-      "Individual": "Smith 1984, n=8",
-      "Compounds": [
-        {
-          "Name": "R-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "R-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "MATE1"
-            },
-            {
-              "MoleculeName": "OCT1"
-            },
-            {
-              "MoleculeName": "OAT3"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Smith 1984, Verapamil 10 mg iv (bol), R-Vera"
-          }
-        },
-        {
-          "Name": "R-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "MATE1"
-            },
-            {
-              "MoleculeName": "OCT1"
-            },
-            {
-              "MoleculeName": "OAT3"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        },
-        {
-          "Name": "S-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "S-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "MATE1"
-            },
-            {
-              "MoleculeName": "OCT1"
-            },
-            {
-              "MoleculeName": "OAT3"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Smith 1984, Verapamil 10 mg iv (bol), S-Vera"
-          }
-        },
-        {
-          "Name": "S-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "MATE1"
-            },
-            {
-              "MoleculeName": "OCT1"
-            },
-            {
-              "MoleculeName": "OAT3"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        }
-      ],
-      "ObserverSets": [
-        {
-          "Name": "Sum-Verapamil"
-        },
-        {
-          "Name": "Sum-Norverapamil"
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "iv_Verapamil 10 mg (bol), Smith 1984, n=8-R-Verapamil-Peripheral Venous Blood-Sum-Verapamil Plasma (Peripheral Venous Blood)-Concentration",
-              "X": "Time",
-              "Y": "iv_Verapamil 10 mg (bol), Smith 1984, n=8|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)-Verapamil-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|Time",
-              "Y": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticMean",
-              "CurveOptions": {
-                "LegendIndex": 4,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "None",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "Verapamil_clean_06\niv_Verapamil 10 mg (bol), Smith 1984, n=8\n2020-07-01 12:22"
         }
       ],
       "Interactions": [
@@ -24999,698 +24572,6 @@
       ]
     },
     {
-      "Name": "iv_Verapamil 10mg SD (10min), Wing 1985, n=1",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv."
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 180.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 10.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Applications|Wing 1985, Verapamil 10mg iv (10min) SD, R-Vera|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min"
-        },
-        {
-          "Path": "Applications|Wing 1985, Verapamil 10mg iv (10min) SD, S-Vera|Application_1|ProtocolSchemaItem|Infusion time",
-          "Value": 10.0,
-          "Unit": "min"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)",
-        "Organism|Kidney|Urine|R-Verapamil",
-        "Organism|Kidney|Urine|R-Norverapamil",
-        "Organism|Kidney|Urine|S-Verapamil",
-        "Organism|Kidney|Urine|S-Norverapamil"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "iv_Verapamil 10mg SD (10min), Wing 1985, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv."
-        }
-      ],
-      "Individual": "Wing 1985, n=1",
-      "Compounds": [
-        {
-          "Name": "R-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "R-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Wing 1985, Verapamil 10mg iv (10min) SD, R-Vera"
-          }
-        },
-        {
-          "Name": "R-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        },
-        {
-          "Name": "S-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "S-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Wing 1985, Verapamil 10mg iv (10min) SD, S-Vera"
-          }
-        },
-        {
-          "Name": "S-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        }
-      ],
-      "ObserverSets": [
-        {
-          "Name": "Sum-Verapamil"
-        },
-        {
-          "Name": "Sum-Norverapamil"
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "R-Verapamil-Peripheral Venous Blood-Sum-Verapamil Plasma (Peripheral Venous Blood)-Concentration",
-              "X": "Time",
-              "Y": "iv_Verapamil 10mg SD (10min), Wing 1985, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "LegendIndex": 9
-              }
-            },
-            {
-              "Name": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.-Verapamil-Peripheral Venous Blood-Plasma-Individual",
-              "X": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.|Time",
-              "Y": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|Individual",
-              "CurveOptions": {
-                "LegendIndex": 11,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "None",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "Verapamil-Model\niv_Verapamil 10mg SD (10min), Wing 1985, n=1\n2022-01-07 18:09"
-        }
-      ],
-      "Interactions": [
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Norverapamil"
-        }
-      ]
-    },
-    {
-      "Name": "po_Verapamil 80mg SD, Wing 1985, n=1",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv."
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 180.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 10.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Applications|Wing 1985, Verapamil 80mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Applications|Wing 1985, Verapamil 80mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)",
-        "Organism|Kidney|Urine|R-Verapamil",
-        "Organism|Kidney|Urine|R-Norverapamil",
-        "Organism|Kidney|Urine|S-Verapamil",
-        "Organism|Kidney|Urine|S-Norverapamil"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "po_Verapamil 80mg SD, Wing 1985, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv."
-        }
-      ],
-      "Individual": "Wing 1985, n=1",
-      "Compounds": [
-        {
-          "Name": "R-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "R-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Wing 1985, Verapamil 80mg po SD, R-Vera",
-            "Formulations": [
-              {
-                "Name": "Solution",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "R-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        },
-        {
-          "Name": "S-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "S-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Wing 1985, Verapamil 80mg po SD, S-Vera",
-            "Formulations": [
-              {
-                "Name": "Solution",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "S-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        }
-      ],
-      "ObserverSets": [
-        {
-          "Name": "Sum-Verapamil"
-        },
-        {
-          "Name": "Sum-Norverapamil"
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "R-Verapamil-Peripheral Venous Blood-Sum-Verapamil Plasma (Peripheral Venous Blood)-Concentration",
-              "X": "Time",
-              "Y": "po_Verapamil 80mg SD, Wing 1985, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "LegendIndex": 9
-              }
-            },
-            {
-              "Name": "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv.-Verapamil-Peripheral Venous Blood-Plasma-Individual",
-              "X": "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv.|Time",
-              "Y": "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|Individual",
-              "CurveOptions": {
-                "LegendIndex": 11,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "None",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "Verapamil-Model\npo_Verapamil 100mg SD, Wing 1985, n=1\n2022-01-07 18:17"
-        }
-      ],
-      "Interactions": [
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Norverapamil"
-        }
-      ]
-    },
-    {
       "Name": "iv_Verapamil 10mg SD (5min), McAllister, Kirsten 1982, n=20",
       "Model": "4Comp",
       "ObservedData": [
@@ -25985,461 +24866,6 @@
             "DiagramBackColor": "#FFFFFF"
           },
           "OriginText": "Verapamil-Model\niv_Verapamil 10mg SD (5min), McAllister, Kirsten 1982, n=20\n2022-01-07 18:32"
-        }
-      ],
-      "Interactions": [
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Norverapamil"
-        }
-      ]
-    },
-    {
-      "Name": "po_Verapamil 120 mg SD, Smith 1984, n=8",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)"
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h"
-            },
-            {
-              "Name": "End time",
-              "Value": 168.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 10.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 168.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 169.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 100.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        },
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 169.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 200.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 10.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Applications|Smith 1984, Verapamil 120mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Applications|Smith 1984, Verapamil 120mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "po_Verapamil 120 mg SD, Smith 1984, n=8|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)"
-        }
-      ],
-      "Individual": "Smith 1984, n=8",
-      "Compounds": [
-        {
-          "Name": "R-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "R-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "MATE1"
-            },
-            {
-              "MoleculeName": "OCT1"
-            },
-            {
-              "MoleculeName": "OAT3"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Smith 1984, Verapamil 120mg po SD, R-Vera",
-            "Formulations": [
-              {
-                "Name": "Solution",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "R-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "MATE1"
-            },
-            {
-              "MoleculeName": "OCT1"
-            },
-            {
-              "MoleculeName": "OAT3"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        },
-        {
-          "Name": "S-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "S-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "MATE1"
-            },
-            {
-              "MoleculeName": "OCT1"
-            },
-            {
-              "MoleculeName": "OAT3"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Smith 1984, Verapamil 120mg po SD, S-Vera",
-            "Formulations": [
-              {
-                "Name": "Solution",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "S-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "MoleculeName": "AADAC"
-            },
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "MoleculeName": "OATP1B1"
-            },
-            {
-              "MoleculeName": "MATE1"
-            },
-            {
-              "MoleculeName": "OCT1"
-            },
-            {
-              "MoleculeName": "OAT3"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        }
-      ],
-      "ObserverSets": [
-        {
-          "Name": "Sum-Verapamil"
-        },
-        {
-          "Name": "Sum-Norverapamil"
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "Min": 167.408554,
-              "Max": 181.930435,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "Min": 0.0226495285,
-              "Max": 544.219849,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "po_Verapamil 120 mg SD, Smith 1984, n=8-R-Verapamil-Peripheral Venous Blood-Sum-Verapamil Plasma (Peripheral Venous Blood)-Concentration",
-              "X": "Time",
-              "Y": "po_Verapamil 120 mg SD, Smith 1984, n=8|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "LegendIndex": 1
-              }
-            },
-            {
-              "Name": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)-Verapamil-Peripheral Venous Blood-Plasma-ArithmeticMean",
-              "X": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|Time",
-              "Y": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticMean",
-              "CurveOptions": {
-                "LegendIndex": 4,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "None",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "Verapamil-Model\npo_Verapamil 120 mg SD, Smith 1984, n=8\n2022-01-07 18:49"
         }
       ],
       "Interactions": [
@@ -27804,8 +26230,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -0.459839225,
-              "Max": 14.1256046,
+              "Min": -0.5144222,
+              "Max": 16.44616,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -27817,8 +26243,8 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 1.37804557E-06,
-              "Max": 0.10838078,
+              "Min": 7.696127E-05,
+              "Max": 0.1620699,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -28199,8 +26625,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -0.0353950933,
-              "Max": 12.505,
+              "Min": 0.0,
+              "Max": 18.0,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -28212,8 +26638,6 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.000846802548,
-              "Max": 2.859814,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -31486,7 +29910,7 @@
       ]
     },
     {
-      "Name": "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20",
+      "Name": "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20",
       "Model": "4Comp",
       "ObservedData": [
         "Härtter et al. 2012 - 120mg po bid - R-Norverapamil - PO - 120 mg - Plasma - agg. (n=20)",
@@ -31819,8 +30243,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -3.57474136,
-              "Max": 85.43378,
+              "Min": 43.9881,
+              "Max": 79.02281,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -31832,8 +30256,8 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 3.98051143,
-              "Max": 180.815338,
+              "Min": 0.04790001,
+              "Max": 817.8182,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -31842,36 +30266,36 @@
           ],
           "Curves": [
             {
-              "Name": "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20-R-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20-R-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20|Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+              "Y": "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20|Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#FF8000",
                 "LegendIndex": 1
               }
             },
             {
-              "Name": "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20-R-Norverapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20-R-Norverapamil-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20|Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
+              "Y": "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20|Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#ECD33A",
                 "LegendIndex": 5
               }
             },
             {
-              "Name": "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20-S-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20-S-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20|Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
+              "Y": "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20|Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#76923C",
                 "LegendIndex": 7
               }
             },
             {
-              "Name": "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20-S-Norverapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "Name": "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20-S-Norverapamil-Peripheral Venous Blood-Plasma-Concentration",
               "X": "Time",
-              "Y": "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20|Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
+              "Y": "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20|Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
               "CurveOptions": {
                 "Color": "#0000C0",
                 "LegendIndex": 8
@@ -32248,8 +30672,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -0.784741163,
-              "Max": 24.7106266,
+              "Min": -0.7847412,
+              "Max": 24.71063,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -32795,8 +31219,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -6.98002434,
-              "Max": 268.72464,
+              "Min": -6.980024,
+              "Max": 268.7246,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -32855,386 +31279,6 @@
             "DiagramBackColor": "#FFFFFF"
           },
           "OriginText": "Verapamil-Model\npo_Verapamil 120 mg MD, Hla 1987, n=10\n2022-01-14 18:30"
-        }
-      ],
-      "Interactions": [
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "R-Norverapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Verapamil"
-        },
-        {
-          "Name": "P-gp-Non-competitive",
-          "MoleculeName": "P-gp",
-          "CompoundName": "S-Norverapamil"
-        },
-        {
-          "Name": "CYP3A4-MBI",
-          "MoleculeName": "CYP3A4",
-          "CompoundName": "S-Norverapamil"
-        }
-      ]
-    },
-    {
-      "Name": "po_Verapamil 160 mg SD, Mikus 1990, n=1",
-      "Model": "4Comp",
-      "ObservedData": [
-        "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.",
-        "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv."
-      ],
-      "Solver": {},
-      "OutputSchema": [
-        {
-          "Parameters": [
-            {
-              "Name": "Start time",
-              "Value": 0.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "End time",
-              "Value": 170.0,
-              "Unit": "h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            },
-            {
-              "Name": "Resolution",
-              "Value": 10.0,
-              "Unit": "pts/h",
-              "ValueOrigin": {
-                "Source": "Unknown"
-              }
-            }
-          ]
-        }
-      ],
-      "Parameters": [
-        {
-          "Path": "Applications|Mikus 1990, Verapamil 160mg po (sol) SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        },
-        {
-          "Path": "Applications|Mikus 1990, Verapamil 160mg po (sol) SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
-          "Value": 3.5,
-          "Unit": "ml/kg"
-        }
-      ],
-      "OutputSelections": [
-        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
-        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)",
-        "Organism|Kidney|Urine|R-Verapamil",
-        "Organism|Kidney|Urine|R-Norverapamil",
-        "Organism|Kidney|Urine|S-Verapamil",
-        "Organism|Kidney|Urine|S-Norverapamil"
-      ],
-      "OutputMappings": [
-        {
-          "Scaling": "Log",
-          "Path": "po_Verapamil 160 mg SD, Mikus 1990, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv."
-        },
-        {
-          "Scaling": "Log",
-          "Path": "po_Verapamil 160 mg SD, Mikus 1990, n=1|Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
-          "ObservedData": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv."
-        }
-      ],
-      "Individual": "Mikus 1990, n=1",
-      "Compounds": [
-        {
-          "Name": "R-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "R-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Mikus 1990, Verapamil 160mg po (sol) SD, R-Vera",
-            "Formulations": [
-              {
-                "Name": "Solution",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "R-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        },
-        {
-          "Name": "S-Verapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-Norverapamil",
-              "MoleculeName": "CYP3A4",
-              "MetaboliteName": "S-Norverapamil"
-            },
-            {
-              "Name": "CYP3A4-D617",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ],
-          "Protocol": {
-            "Name": "Mikus 1990, Verapamil 160mg po (sol) SD, S-Vera",
-            "Formulations": [
-              {
-                "Name": "Solution",
-                "Key": "Formulation"
-              }
-            ]
-          }
-        },
-        {
-          "Name": "S-Norverapamil",
-          "CalculationMethods": [
-            "Cellular partition coefficient method - Rodgers and Rowland",
-            "Cellular permeability - PK-Sim Standard"
-          ],
-          "Alternatives": [
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_PERMEABILITY"
-            },
-            {
-              "AlternativeName": "Fitted",
-              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
-            }
-          ],
-          "Processes": [
-            {
-              "Name": "CYP3A4-D620",
-              "MoleculeName": "CYP3A4"
-            },
-            {
-              "Name": "P-gp-Paper",
-              "MoleculeName": "P-gp"
-            },
-            {
-              "Name": "Glomerular Filtration-GFR",
-              "SystemicProcessType": "GFR"
-            }
-          ]
-        }
-      ],
-      "ObserverSets": [
-        {
-          "Name": "Sum-Verapamil"
-        },
-        {
-          "Name": "Sum-Norverapamil"
-        }
-      ],
-      "HasResults": true,
-      "IndividualAnalyses": [
-        {
-          "Axes": [
-            {
-              "Unit": "h",
-              "Dimension": "Time",
-              "Type": "X",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "None",
-              "Scaling": "Linear",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "ng/ml",
-              "Dimension": "Concentration (molar)",
-              "Type": "Y",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Solid",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            },
-            {
-              "Unit": "",
-              "Type": "Y2",
-              "GridLines": false,
-              "Visible": true,
-              "DefaultColor": "#FFFFFF",
-              "DefaultLineStyle": "Dash",
-              "Scaling": "Log",
-              "NumberMode": "Normal"
-            }
-          ],
-          "Curves": [
-            {
-              "Name": "S-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "po_Verapamil 160 mg SD, Mikus 1990, n=1|Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#008000",
-                "LegendIndex": 18
-              }
-            },
-            {
-              "Name": "R-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
-              "X": "Time",
-              "Y": "po_Verapamil 160 mg SD, Mikus 1990, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 17
-              }
-            },
-            {
-              "Name": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.-R-Verapamil-Peripheral Venous Blood-Plasma-Individual",
-              "X": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.|Time",
-              "Y": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|R-Verapamil|Individual",
-              "CurveOptions": {
-                "Color": "#FF0000",
-                "LegendIndex": 19,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            },
-            {
-              "Name": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.-S-Verapamil-Peripheral Venous Blood-Plasma-Individual",
-              "X": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.|Time",
-              "Y": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|S-Verapamil|Individual",
-              "CurveOptions": {
-                "Color": "#008000",
-                "LegendIndex": 20,
-                "LineStyle": "None",
-                "Symbol": "Circle"
-              }
-            }
-          ],
-          "Name": "Time Profile Analysis",
-          "FontAndSize": {
-            "Fonts": {
-              "AxisSize": 10,
-              "LegendSize": 8,
-              "TitleSize": 16,
-              "DescriptionSize": 12,
-              "OriginSize": 8,
-              "FontFamilyName": "Microsoft Sans Serif",
-              "WatermarkSize": 32
-            }
-          },
-          "Settings": {
-            "SideMarginsEnabled": true,
-            "LegendPosition": "None",
-            "BackColor": "#00FFFFFF",
-            "DiagramBackColor": "#FFFFFF"
-          },
-          "OriginText": "Verapamil-Model\npo_Verapamil 160 mg SD, Mikus 1990, n=1\n2022-02-01 15:51"
         }
       ],
       "Interactions": [
@@ -33592,8 +31636,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -2.43424487,
-              "Max": 84.23993,
+              "Min": 41.0736,
+              "Max": 86.4388,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -33605,8 +31649,8 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 3.15845561,
-              "Max": 373.200378,
+              "Min": 1.412678,
+              "Max": 457.3296,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -33617,6 +31661,8 @@
               "Type": "Y2",
               "GridLines": false,
               "Visible": true,
+              "Min": 0.003650297,
+              "Max": 1.207099,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Dash",
               "Scaling": "Log",
@@ -34698,8 +32744,6 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -0.858282447,
-              "Max": 13.2724123,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -34711,8 +32755,6 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.194301948,
-              "Max": 84.63764,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -35066,8 +33108,6 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -0.7232758,
-              "Max": 12.7323856,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -35079,8 +33119,6 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.184122533,
-              "Max": 71.97881,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -36813,8 +34851,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -1.57874286,
-              "Max": 48.9321022,
+              "Min": -1.578743,
+              "Max": 48.9321,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -36827,7 +34865,7 @@
               "GridLines": false,
               "Visible": true,
               "Min": 9.302593,
-              "Max": 208.909546,
+              "Max": 208.9095,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -37546,7 +35584,7 @@
               "GridLines": false,
               "Visible": true,
               "Min": -0.5232525,
-              "Max": 17.5161457,
+              "Max": 17.51615,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -37558,8 +35596,8 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 0.000863474968,
-              "Max": 0.355720371,
+              "Min": 0.000863475,
+              "Max": 0.3557204,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -37911,8 +35949,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
-              "Min": -1.02561545,
-              "Max": 16.7854366,
+              "Min": -1.025615,
+              "Max": 16.78544,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",
@@ -37925,7 +35963,7 @@
               "GridLines": false,
               "Visible": true,
               "Min": 0.0009898053,
-              "Max": 0.557919145,
+              "Max": 0.5579191,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
               "Scaling": "Log",
@@ -39766,7 +37804,7 @@
               "Type": "Y",
               "GridLines": false,
               "Visible": true,
-              "Min": 14.648901,
+              "Min": 14.6489,
               "Max": 695.0531,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "Solid",
@@ -39884,6 +37922,1844 @@
         {
           "Name": "P-gp-Non-competitive",
           "MoleculeName": "P-gp",
+          "CompoundName": "S-Norverapamil"
+        }
+      ]
+    },
+    {
+      "Name": "iv_Verapamil 10 mg (bol), Smith 1984, n=8",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 8.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 20.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "iv_Verapamil 10 mg (bol), Smith 1984, n=8|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)"
+        }
+      ],
+      "Individual": "Smith 1984, n=8",
+      "Compounds": [
+        {
+          "Name": "R-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "R-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "MATE1"
+            },
+            {
+              "MoleculeName": "OCT1"
+            },
+            {
+              "MoleculeName": "OAT3"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Smith 1984, Verapamil 10 mg iv (bol), R-Vera"
+          }
+        },
+        {
+          "Name": "R-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "MATE1"
+            },
+            {
+              "MoleculeName": "OCT1"
+            },
+            {
+              "MoleculeName": "OAT3"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "S-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "S-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "MATE1"
+            },
+            {
+              "MoleculeName": "OCT1"
+            },
+            {
+              "MoleculeName": "OAT3"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Smith 1984, Verapamil 10 mg iv (bol), S-Vera"
+          }
+        },
+        {
+          "Name": "S-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "MATE1"
+            },
+            {
+              "MoleculeName": "OCT1"
+            },
+            {
+              "MoleculeName": "OAT3"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "ObserverSets": [
+        {
+          "Name": "Sum-Verapamil"
+        },
+        {
+          "Name": "Sum-Norverapamil"
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "iv_Verapamil 10 mg (bol), Smith 1984, n=8-R-Verapamil-Peripheral Venous Blood-Sum-Verapamil Plasma (Peripheral Venous Blood)-Concentration",
+              "X": "Time",
+              "Y": "iv_Verapamil 10 mg (bol), Smith 1984, n=8|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)-Verapamil-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|Time",
+              "Y": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticMean",
+              "CurveOptions": {
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Verapamil-Model\niv_Verapamil 10 mg (bol), Smith 1984, n=8\n2024-09-04 09:41"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Norverapamil"
+        }
+      ]
+    },
+    {
+      "Name": "po_Verapamil 120 mg SD, Smith 1984, n=8",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)"
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h"
+            },
+            {
+              "Name": "End time",
+              "Value": 8.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 10.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Smith 1984, Verapamil 120mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Smith 1984, Verapamil 120mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "po_Verapamil 120 mg SD, Smith 1984, n=8|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)"
+        }
+      ],
+      "Individual": "Smith 1984, n=8",
+      "Compounds": [
+        {
+          "Name": "R-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "R-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "MATE1"
+            },
+            {
+              "MoleculeName": "OCT1"
+            },
+            {
+              "MoleculeName": "OAT3"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Smith 1984, Verapamil 120mg po SD, R-Vera",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "R-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "MATE1"
+            },
+            {
+              "MoleculeName": "OCT1"
+            },
+            {
+              "MoleculeName": "OAT3"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "S-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "S-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "MATE1"
+            },
+            {
+              "MoleculeName": "OCT1"
+            },
+            {
+              "MoleculeName": "OAT3"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Smith 1984, Verapamil 120mg po SD, S-Vera",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "S-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "MoleculeName": "AADAC"
+            },
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "MoleculeName": "OATP1B1"
+            },
+            {
+              "MoleculeName": "MATE1"
+            },
+            {
+              "MoleculeName": "OCT1"
+            },
+            {
+              "MoleculeName": "OAT3"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "ObserverSets": [
+        {
+          "Name": "Sum-Verapamil"
+        },
+        {
+          "Name": "Sum-Norverapamil"
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "po_Verapamil 120 mg SD, Smith 1984, n=8-R-Verapamil-Peripheral Venous Blood-Sum-Verapamil Plasma (Peripheral Venous Blood)-Concentration",
+              "X": "Time",
+              "Y": "po_Verapamil 120 mg SD, Smith 1984, n=8|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "LegendIndex": 1
+              }
+            },
+            {
+              "Name": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)-Verapamil-Peripheral Venous Blood-Plasma-ArithmeticMean",
+              "X": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|Time",
+              "Y": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticMean",
+              "CurveOptions": {
+                "LegendIndex": 5,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Verapamil-Model\npo_Verapamil 120 mg SD, Smith 1984, n=8\n2024-09-04 09:47"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Norverapamil"
+        }
+      ]
+    },
+    {
+      "Name": "iv_Verapamil 10mg SD (10min), Wing 1985, n=1",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv."
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 12.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 10.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Wing 1985, Verapamil 10mg iv (10min) SD, R-Vera|Application_1|ProtocolSchemaItem|Infusion time",
+          "Value": 10.0,
+          "Unit": "min"
+        },
+        {
+          "Path": "Applications|Wing 1985, Verapamil 10mg iv (10min) SD, S-Vera|Application_1|ProtocolSchemaItem|Infusion time",
+          "Value": 10.0,
+          "Unit": "min"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)",
+        "Organism|Kidney|Urine|R-Verapamil",
+        "Organism|Kidney|Urine|R-Norverapamil",
+        "Organism|Kidney|Urine|S-Verapamil",
+        "Organism|Kidney|Urine|S-Norverapamil"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "iv_Verapamil 10mg SD (10min), Wing 1985, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv."
+        }
+      ],
+      "Individual": "Wing 1985, n=1",
+      "Compounds": [
+        {
+          "Name": "R-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "R-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Wing 1985, Verapamil 10mg iv (10min) SD, R-Vera"
+          }
+        },
+        {
+          "Name": "R-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "S-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "S-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Wing 1985, Verapamil 10mg iv (10min) SD, S-Vera"
+          }
+        },
+        {
+          "Name": "S-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "ObserverSets": [
+        {
+          "Name": "Sum-Verapamil"
+        },
+        {
+          "Name": "Sum-Norverapamil"
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "R-Verapamil-Peripheral Venous Blood-Sum-Verapamil Plasma (Peripheral Venous Blood)-Concentration",
+              "X": "Time",
+              "Y": "iv_Verapamil 10mg SD (10min), Wing 1985, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "LegendIndex": 9
+              }
+            },
+            {
+              "Name": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.-Verapamil-Peripheral Venous Blood-Plasma-Individual",
+              "X": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.|Time",
+              "Y": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|Individual",
+              "CurveOptions": {
+                "LegendIndex": 10,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Verapamil-Model\niv_Verapamil 10mg SD (10min), Wing 1985, n=1\n2024-09-04 12:58"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Norverapamil"
+        }
+      ]
+    },
+    {
+      "Name": "po_Verapamil 80mg SD, Wing 1985, n=1",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv."
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 10.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 10.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Wing 1985, Verapamil 80mg po SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Wing 1985, Verapamil 80mg po SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)",
+        "Organism|Kidney|Urine|R-Verapamil",
+        "Organism|Kidney|Urine|R-Norverapamil",
+        "Organism|Kidney|Urine|S-Verapamil",
+        "Organism|Kidney|Urine|S-Norverapamil"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "po_Verapamil 80mg SD, Wing 1985, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv."
+        }
+      ],
+      "Individual": "Wing 1985, n=1",
+      "Compounds": [
+        {
+          "Name": "R-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "R-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Wing 1985, Verapamil 80mg po SD, R-Vera",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "R-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "S-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "S-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Wing 1985, Verapamil 80mg po SD, S-Vera",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "S-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "ObserverSets": [
+        {
+          "Name": "Sum-Verapamil"
+        },
+        {
+          "Name": "Sum-Norverapamil"
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "R-Verapamil-Peripheral Venous Blood-Sum-Verapamil Plasma (Peripheral Venous Blood)-Concentration",
+              "X": "Time",
+              "Y": "po_Verapamil 80mg SD, Wing 1985, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "LegendIndex": 9
+              }
+            },
+            {
+              "Name": "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv.-Verapamil-Peripheral Venous Blood-Plasma-Individual",
+              "X": "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv.|Time",
+              "Y": "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|Individual",
+              "CurveOptions": {
+                "LegendIndex": 12,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Verapamil-Model\npo_Verapamil 80mg SD, Wing 1985, n=1\n2024-09-04 13:02"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Norverapamil"
+        }
+      ]
+    },
+    {
+      "Name": "po_Verapamil 160 mg SD, Mikus 1990, n=1",
+      "Model": "4Comp",
+      "ObservedData": [
+        "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.",
+        "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv."
+      ],
+      "Solver": {},
+      "OutputSchema": [
+        {
+          "Parameters": [
+            {
+              "Name": "Start time",
+              "Value": 0.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "End time",
+              "Value": 16.0,
+              "Unit": "h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            },
+            {
+              "Name": "Resolution",
+              "Value": 10.0,
+              "Unit": "pts/h",
+              "ValueOrigin": {
+                "Source": "Unknown"
+              }
+            }
+          ]
+        }
+      ],
+      "Parameters": [
+        {
+          "Path": "Applications|Mikus 1990, Verapamil 160mg po (sol) SD, R-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        },
+        {
+          "Path": "Applications|Mikus 1990, Verapamil 160mg po (sol) SD, S-Vera|Solution|Application_1|ProtocolSchemaItem|Volume of water/body weight",
+          "Value": 3.5,
+          "Unit": "ml/kg"
+        }
+      ],
+      "OutputSelections": [
+        "Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|S-Norverapamil|Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Verapamil|Sum-Verapamil Plasma (Peripheral Venous Blood)",
+        "Organism|PeripheralVenousBlood|R-Norverapamil|Sum-Norverapamil Plasma (Peripheral Venous Blood)",
+        "Organism|Kidney|Urine|R-Verapamil",
+        "Organism|Kidney|Urine|R-Norverapamil",
+        "Organism|Kidney|Urine|S-Verapamil",
+        "Organism|Kidney|Urine|S-Norverapamil"
+      ],
+      "OutputMappings": [
+        {
+          "Scaling": "Log",
+          "Path": "po_Verapamil 160 mg SD, Mikus 1990, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv."
+        },
+        {
+          "Scaling": "Log",
+          "Path": "po_Verapamil 160 mg SD, Mikus 1990, n=1|Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
+          "ObservedData": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv."
+        }
+      ],
+      "Individual": "Mikus 1990, n=1",
+      "Compounds": [
+        {
+          "Name": "R-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "R-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Mikus 1990, Verapamil 160mg po (sol) SD, R-Vera",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "R-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        },
+        {
+          "Name": "S-Verapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-Norverapamil",
+              "MoleculeName": "CYP3A4",
+              "MetaboliteName": "S-Norverapamil"
+            },
+            {
+              "Name": "CYP3A4-D617",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ],
+          "Protocol": {
+            "Name": "Mikus 1990, Verapamil 160mg po (sol) SD, S-Vera",
+            "Formulations": [
+              {
+                "Name": "Solution",
+                "Key": "Formulation"
+              }
+            ]
+          }
+        },
+        {
+          "Name": "S-Norverapamil",
+          "CalculationMethods": [
+            "Cellular partition coefficient method - Rodgers and Rowland",
+            "Cellular permeability - PK-Sim Standard"
+          ],
+          "Alternatives": [
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_PERMEABILITY"
+            },
+            {
+              "AlternativeName": "Fitted",
+              "GroupName": "COMPOUND_INTESTINAL_PERMEABILITY"
+            }
+          ],
+          "Processes": [
+            {
+              "Name": "CYP3A4-D620",
+              "MoleculeName": "CYP3A4"
+            },
+            {
+              "Name": "P-gp-Paper",
+              "MoleculeName": "P-gp"
+            },
+            {
+              "Name": "Glomerular Filtration-GFR",
+              "SystemicProcessType": "GFR"
+            }
+          ]
+        }
+      ],
+      "ObserverSets": [
+        {
+          "Name": "Sum-Verapamil"
+        },
+        {
+          "Name": "Sum-Norverapamil"
+        }
+      ],
+      "HasResults": true,
+      "IndividualAnalyses": [
+        {
+          "Axes": [
+            {
+              "Unit": "h",
+              "Dimension": "Time",
+              "Type": "X",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "None",
+              "Scaling": "Linear",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "ng/ml",
+              "Dimension": "Concentration (molar)",
+              "Type": "Y",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Solid",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            },
+            {
+              "Unit": "",
+              "Type": "Y2",
+              "GridLines": false,
+              "Visible": true,
+              "DefaultColor": "#FFFFFF",
+              "DefaultLineStyle": "Dash",
+              "Scaling": "Log",
+              "NumberMode": "Normal"
+            }
+          ],
+          "Curves": [
+            {
+              "Name": "S-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "po_Verapamil 160 mg SD, Mikus 1990, n=1|Organism|PeripheralVenousBlood|S-Verapamil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 18
+              }
+            },
+            {
+              "Name": "R-Verapamil-Peripheral Venous Blood-Plasma-Concentration",
+              "X": "Time",
+              "Y": "po_Verapamil 160 mg SD, Mikus 1990, n=1|Organism|PeripheralVenousBlood|R-Verapamil|Plasma (Peripheral Venous Blood)",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 17
+              }
+            },
+            {
+              "Name": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.-R-Verapamil-Peripheral Venous Blood-Plasma-Individual",
+              "X": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.|Time",
+              "Y": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|R-Verapamil|Individual",
+              "CurveOptions": {
+                "Color": "#FF0000",
+                "LegendIndex": 21,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            },
+            {
+              "Name": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.-S-Verapamil-Peripheral Venous Blood-Plasma-Individual",
+              "X": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.|Time",
+              "Y": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|S-Verapamil|Individual",
+              "CurveOptions": {
+                "Color": "#008000",
+                "LegendIndex": 22,
+                "LineStyle": "None",
+                "Symbol": "Circle"
+              }
+            }
+          ],
+          "Name": "Time Profile Analysis",
+          "FontAndSize": {
+            "Fonts": {
+              "AxisSize": 10,
+              "LegendSize": 8,
+              "TitleSize": 16,
+              "DescriptionSize": 12,
+              "OriginSize": 8,
+              "FontFamilyName": "Microsoft Sans Serif",
+              "WatermarkSize": 32
+            }
+          },
+          "Settings": {
+            "SideMarginsEnabled": true,
+            "LegendPosition": "None",
+            "BackColor": "#00FFFFFF",
+            "DiagramBackColor": "#FFFFFF"
+          },
+          "OriginText": "Verapamil-Model\npo_Verapamil 160 mg SD, Mikus 1990, n=1\n2024-09-04 13:07"
+        }
+      ],
+      "Interactions": [
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "R-Norverapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
+          "CompoundName": "S-Verapamil"
+        },
+        {
+          "Name": "P-gp-Non-competitive",
+          "MoleculeName": "P-gp",
+          "CompoundName": "S-Norverapamil"
+        },
+        {
+          "Name": "CYP3A4-MBI",
+          "MoleculeName": "CYP3A4",
           "CompoundName": "S-Norverapamil"
         }
       ]
@@ -44466,157 +44342,6 @@
       }
     },
     {
-      "Name": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.",
-      "ExtendedProperties": [
-        {
-          "Name": "DB Version",
-          "Value": "OSP DATABASE",
-          "Type": "String"
-        },
-        {
-          "Name": "ID",
-          "Value": 16111.0,
-          "Type": "Double"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "Wing et al. 1985",
-          "Type": "String"
-        },
-        {
-          "Name": "Reference",
-          "Value": "https://pubmed.ncbi.nlm.nih.gov/3986090/",
-          "Type": "String"
-        },
-        {
-          "Name": "Source",
-          "Value": "Figure 1",
-          "Type": "String"
-        },
-        {
-          "Name": "Grouping",
-          "Value": "10mg Verapamil without cimetidine, IV",
-          "Type": "String"
-        },
-        {
-          "Name": "Data type",
-          "Value": "individual",
-          "Type": "String"
-        },
-        {
-          "Name": "N",
-          "Value": 1.0,
-          "Type": "Double"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "Verapamil",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Organ",
-          "Value": "Peripheral Venous Blood",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Plasma",
-          "Type": "String"
-        },
-        {
-          "Name": "Route",
-          "Value": "IV",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "10 mg",
-          "Type": "String"
-        },
-        {
-          "Name": "Times of Administration [h]",
-          "Value": 168.0,
-          "Type": "Double"
-        },
-        {
-          "Name": "Formulation",
-          "Value": "i.v. infusion",
-          "Type": "String"
-        },
-        {
-          "Name": "Food state",
-          "Value": "fasted",
-          "Type": "String"
-        },
-        {
-          "Name": "Comment",
-          "Value": ".",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Avg",
-          "QuantityInfo": {
-            "Path": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|Individual"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 454.6
-          },
-          "Values": [
-            95.257,
-            56.051,
-            44.207,
-            43.3739967,
-            32.506,
-            33.652,
-            27.766,
-            19.931,
-            12.0949993,
-            6.506,
-            4.173,
-            3.17599988
-          ],
-          "Dimension": "Concentration (mass)",
-          "Unit": "ng/ml"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          168.167,
-          168.334,
-          168.5,
-          168.667,
-          168.917,
-          169.167,
-          170.167,
-          171.167,
-          172.167,
-          174.167,
-          176.167,
-          178.167
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
       "Name": "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv.",
       "ExtendedProperties": [
         {
@@ -44691,7 +44416,7 @@
         },
         {
           "Name": "Times of Administration [h]",
-          "Value": 168.0,
+          "Value": 0.0,
           "Type": "Double"
         },
         {
@@ -44745,13 +44470,172 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          169.0,
-          169.5,
-          170.0,
-          171.0,
-          172.0,
-          174.0,
-          176.0
+          1.0,
+          1.5,
+          2.0,
+          3.0,
+          4.0,
+          6.0,
+          8.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE",
+          "Type": "String"
+        },
+        {
+          "Name": "ID",
+          "Value": 16140.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Mikus et al. 1990",
+          "Type": "String"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/2359015/",
+          "Type": "String"
+        },
+        {
+          "Name": "Source",
+          "Value": "Figure 3",
+          "Type": "String"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "160mg verapamil without cimetidine, PO",
+          "Type": "String"
+        },
+        {
+          "Name": "Data type",
+          "Value": "individual",
+          "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 1.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "R-Verapamil",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "160 mg",
+          "Type": "String"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 0.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "oral solution",
+          "Type": "String"
+        },
+        {
+          "Name": "Food state",
+          "Value": "fasted",
+          "Type": "String"
+        },
+        {
+          "Name": "Comment",
+          "Value": ".",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "QuantityInfo": {
+            "Path": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|R-Verapamil|Individual"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 454.611
+          },
+          "Values": [
+            0.21163,
+            0.21421,
+            0.18168,
+            0.15642,
+            0.13446,
+            0.11582,
+            0.10029,
+            0.08028,
+            0.07285,
+            0.05393,
+            0.03843,
+            0.03339,
+            0.02744,
+            0.02148,
+            0.01517,
+            0.01252
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.75,
+          1.0,
+          1.25,
+          1.5,
+          2.0,
+          2.5,
+          3.0,
+          4.0,
+          5.0,
+          6.0,
+          8.0,
+          9.0,
+          11.0,
+          12.0,
+          14.0,
+          15.0
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -48802,322 +48686,6 @@
       }
     },
     {
-      "Name": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.",
-      "ExtendedProperties": [
-        {
-          "Name": "DB Version",
-          "Value": "OSP DATABASE",
-          "Type": "String"
-        },
-        {
-          "Name": "ID",
-          "Value": 16140.0,
-          "Type": "Double"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "Mikus et al. 1990",
-          "Type": "String"
-        },
-        {
-          "Name": "Reference",
-          "Value": "https://pubmed.ncbi.nlm.nih.gov/2359015/",
-          "Type": "String"
-        },
-        {
-          "Name": "Source",
-          "Value": "Figure 3",
-          "Type": "String"
-        },
-        {
-          "Name": "Grouping",
-          "Value": "160mg verapamil without cimetidine, PO",
-          "Type": "String"
-        },
-        {
-          "Name": "Data type",
-          "Value": "individual",
-          "Type": "String"
-        },
-        {
-          "Name": "N",
-          "Value": 1.0,
-          "Type": "Double"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "R-Verapamil",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Organ",
-          "Value": "Peripheral Venous Blood",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Plasma",
-          "Type": "String"
-        },
-        {
-          "Name": "Route",
-          "Value": "PO",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "160 mg",
-          "Type": "String"
-        },
-        {
-          "Name": "Times of Administration [h]",
-          "Value": 144.5,
-          "Type": "Double"
-        },
-        {
-          "Name": "Formulation",
-          "Value": "oral solution",
-          "Type": "String"
-        },
-        {
-          "Name": "Food state",
-          "Value": "fasted",
-          "Type": "String"
-        },
-        {
-          "Name": "Comment",
-          "Value": ".",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Avg",
-          "QuantityInfo": {
-            "Path": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|R-Verapamil|Individual"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 454.611
-          },
-          "Values": [
-            0.21163,
-            0.21421,
-            0.18168,
-            0.15642,
-            0.13446,
-            0.11582,
-            0.10029,
-            0.08028,
-            0.07285,
-            0.05393,
-            0.03843,
-            0.03339,
-            0.02744,
-            0.02148,
-            0.01517,
-            0.01252
-          ],
-          "Dimension": "Concentration (molar)",
-          "Unit": "µmol/l"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          145.25,
-          145.5,
-          145.75,
-          146.0,
-          146.5,
-          147.0,
-          147.5,
-          148.5,
-          149.5,
-          150.5,
-          152.5,
-          153.5,
-          155.5,
-          156.5,
-          158.5,
-          159.5
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
-      "Name": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.",
-      "ExtendedProperties": [
-        {
-          "Name": "DB Version",
-          "Value": "OSP DATABASE",
-          "Type": "String"
-        },
-        {
-          "Name": "ID",
-          "Value": 16141.0,
-          "Type": "Double"
-        },
-        {
-          "Name": "Study Id",
-          "Value": "Mikus et al. 1990",
-          "Type": "String"
-        },
-        {
-          "Name": "Reference",
-          "Value": "https://pubmed.ncbi.nlm.nih.gov/2359015/",
-          "Type": "String"
-        },
-        {
-          "Name": "Source",
-          "Value": "Figure 3",
-          "Type": "String"
-        },
-        {
-          "Name": "Grouping",
-          "Value": "160mg verapamil without cimetidine, PO",
-          "Type": "String"
-        },
-        {
-          "Name": "Data type",
-          "Value": "individual",
-          "Type": "String"
-        },
-        {
-          "Name": "N",
-          "Value": 1.0,
-          "Type": "Double"
-        },
-        {
-          "Name": "Molecule",
-          "Value": "S-Verapamil",
-          "Type": "String"
-        },
-        {
-          "Name": "Species",
-          "Value": "Human",
-          "Type": "String"
-        },
-        {
-          "Name": "Organ",
-          "Value": "Peripheral Venous Blood",
-          "Type": "String"
-        },
-        {
-          "Name": "Compartment",
-          "Value": "Plasma",
-          "Type": "String"
-        },
-        {
-          "Name": "Route",
-          "Value": "PO",
-          "Type": "String"
-        },
-        {
-          "Name": "Dose",
-          "Value": "160 mg",
-          "Type": "String"
-        },
-        {
-          "Name": "Times of Administration [h]",
-          "Value": 144.5,
-          "Type": "Double"
-        },
-        {
-          "Name": "Formulation",
-          "Value": "oral solution",
-          "Type": "String"
-        },
-        {
-          "Name": "Food state",
-          "Value": "fasted",
-          "Type": "String"
-        },
-        {
-          "Name": "Comment",
-          "Value": ".",
-          "Type": "String"
-        }
-      ],
-      "Columns": [
-        {
-          "Name": "Avg",
-          "QuantityInfo": {
-            "Path": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|S-Verapamil|Individual"
-          },
-          "DataInfo": {
-            "Origin": "Observation",
-            "AuxiliaryType": "Undefined",
-            "MolWeight": 454.611
-          },
-          "Values": [
-            0.031719,
-            0.035278,
-            0.029864,
-            0.027773,
-            0.024431,
-            0.019656,
-            0.016873,
-            0.012695,
-            0.013402,
-            0.010244,
-            0.00806,
-            0.007406,
-            0.006194,
-            0.004835,
-            0.003723
-          ],
-          "Dimension": "Concentration (molar)",
-          "Unit": "µmol/l"
-        }
-      ],
-      "BaseGrid": {
-        "Name": "Time",
-        "QuantityInfo": {
-          "Path": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.|Time",
-          "Type": "Time"
-        },
-        "DataInfo": {
-          "Origin": "BaseGrid",
-          "AuxiliaryType": "Undefined"
-        },
-        "Values": [
-          145.0,
-          145.25,
-          145.5,
-          146.0,
-          146.5,
-          147.0,
-          147.5,
-          148.5,
-          149.5,
-          150.5,
-          152.5,
-          153.5,
-          155.5,
-          156.5,
-          159.5
-        ],
-        "Dimension": "Time",
-        "Unit": "h"
-      }
-    },
-    {
       "Name": "van Haarst et al. 2009 - Verapamil only - Verapamil - PO - 180 mg - Plasma - agg. (n=10)",
       "ExtendedProperties": [
         {
@@ -50730,7 +50298,7 @@
       }
     },
     {
-      "Name": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)",
+      "Name": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -50739,7 +50307,7 @@
         },
         {
           "Name": "ID",
-          "Value": 1327.0,
+          "Value": 1329.0,
           "Type": "Double"
         },
         {
@@ -50759,7 +50327,7 @@
         },
         {
           "Name": "Grouping",
-          "Value": "IV 10 mg Verapamil control",
+          "Value": "PO 120 mg Verapamil control",
           "Type": "String"
         },
         {
@@ -50794,17 +50362,17 @@
         },
         {
           "Name": "Route",
-          "Value": "IV",
+          "Value": "PO",
           "Type": "String"
         },
         {
           "Name": "Dose",
-          "Value": "10 mg",
+          "Value": "120 mg",
           "Type": "String"
         },
         {
           "Name": "Times of Administration [h]",
-          "Value": 168.0,
+          "Value": 0.0,
           "Type": "Double"
         },
         {
@@ -50830,7 +50398,7 @@
             {
               "Name": "Var",
               "QuantityInfo": {
-                "Path": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticStdDev"
+                "Path": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticStdDev"
               },
               "DataInfo": {
                 "Origin": "ObservationAuxiliary",
@@ -50838,24 +50406,23 @@
                 "MolWeight": 454.6
               },
               "Values": [
-                0.19185,
-                "NaN",
-                0.018451,
-                0.017302,
-                0.019076,
-                0.016245,
-                0.014168,
-                0.010131,
-                0.012209,
-                0.0078614,
-                0.006115
+                0.13402,
+                0.105844,
+                0.080321,
+                0.064372,
+                0.047594,
+                0.044354,
+                0.040838,
+                0.025194,
+                0.019631,
+                0.0148738
               ],
               "Dimension": "Concentration (mass)",
               "Unit": "mg/l"
             }
           ],
           "QuantityInfo": {
-            "Path": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticMean"
+            "Path": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticMean"
           },
           "DataInfo": {
             "Origin": "Observation",
@@ -50864,17 +50431,16 @@
             "LLOQ": 5E-09
           },
           "Values": [
-            339.58,
-            135.57,
-            55.034,
-            36.566,
-            28.12,
-            24.714,
-            17.981,
-            13.189,
-            11.926,
-            9.5676,
-            6.282
+            123.48,
+            95.196,
+            71.059,
+            63.998,
+            38.763,
+            36.077,
+            35.034,
+            17.15,
+            12.18,
+            8.3282
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "ng/ml"
@@ -50883,7 +50449,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|Time",
+          "Path": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -50891,17 +50457,16 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          168.0333,
-          168.1667,
-          168.25,
-          168.5,
-          168.75,
-          169.0,
-          169.5,
-          170.0,
-          171.0,
-          172.0,
-          173.0
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0,
+          3.5,
+          4.0,
+          5.0,
+          6.0,
+          7.0
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -51882,7 +51447,7 @@
       }
     },
     {
-      "Name": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)",
+      "Name": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.",
       "ExtendedProperties": [
         {
           "Name": "DB Version",
@@ -51891,37 +51456,37 @@
         },
         {
           "Name": "ID",
-          "Value": 1329.0,
+          "Value": 16111.0,
           "Type": "Double"
         },
         {
           "Name": "Study Id",
-          "Value": "Smith 1984",
+          "Value": "Wing et al. 1985",
           "Type": "String"
         },
         {
           "Name": "Reference",
-          "Value": "https://pubmed.ncbi.nlm.nih.gov/6478741/",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/3986090/",
           "Type": "String"
         },
         {
           "Name": "Source",
-          "Value": "Fig.1",
+          "Value": "Figure 1",
           "Type": "String"
         },
         {
           "Name": "Grouping",
-          "Value": "PO 120 mg Verapamil control",
+          "Value": "10mg Verapamil without cimetidine, IV",
           "Type": "String"
         },
         {
           "Name": "Data type",
-          "Value": "aggregated",
+          "Value": "individual",
           "Type": "String"
         },
         {
           "Name": "N",
-          "Value": 8.0,
+          "Value": 1.0,
           "Type": "Double"
         },
         {
@@ -51946,27 +51511,27 @@
         },
         {
           "Name": "Route",
-          "Value": "PO",
+          "Value": "IV",
           "Type": "String"
         },
         {
           "Name": "Dose",
-          "Value": "120 mg",
+          "Value": "10 mg",
           "Type": "String"
         },
         {
           "Name": "Times of Administration [h]",
-          "Value": 168.0,
+          "Value": 0.0,
           "Type": "Double"
         },
         {
           "Name": "Formulation",
-          "Value": ".",
+          "Value": "i.v. infusion",
           "Type": "String"
         },
         {
           "Name": "Food state",
-          "Value": ".",
+          "Value": "fasted",
           "Type": "String"
         },
         {
@@ -51978,53 +51543,27 @@
       "Columns": [
         {
           "Name": "Avg",
-          "RelatedColumns": [
-            {
-              "Name": "Var",
-              "QuantityInfo": {
-                "Path": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticStdDev"
-              },
-              "DataInfo": {
-                "Origin": "ObservationAuxiliary",
-                "AuxiliaryType": "ArithmeticStdDev",
-                "MolWeight": 454.6
-              },
-              "Values": [
-                0.13402,
-                0.105844,
-                0.080321,
-                0.064372,
-                0.047594,
-                0.044354,
-                0.040838,
-                0.025194,
-                0.019631,
-                0.0148738
-              ],
-              "Dimension": "Concentration (mass)",
-              "Unit": "mg/l"
-            }
-          ],
           "QuantityInfo": {
-            "Path": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticMean"
+            "Path": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|Individual"
           },
           "DataInfo": {
             "Origin": "Observation",
             "AuxiliaryType": "Undefined",
-            "MolWeight": 454.6,
-            "LLOQ": 5E-09
+            "MolWeight": 454.6
           },
           "Values": [
-            123.48,
-            95.196,
-            71.059,
-            63.998,
-            38.763,
-            36.077,
-            35.034,
-            17.15,
-            12.18,
-            8.3282
+            95.257,
+            56.051,
+            44.207,
+            43.3739967,
+            32.506,
+            33.652,
+            27.766,
+            19.931,
+            12.0949993,
+            6.506,
+            4.173,
+            3.17599988
           ],
           "Dimension": "Concentration (mass)",
           "Unit": "ng/ml"
@@ -52033,7 +51572,7 @@
       "BaseGrid": {
         "Name": "Time",
         "QuantityInfo": {
-          "Path": "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)|Time",
+          "Path": "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.|Time",
           "Type": "Time"
         },
         "DataInfo": {
@@ -52041,16 +51580,18 @@
           "AuxiliaryType": "Undefined"
         },
         "Values": [
-          169.0,
-          169.5,
-          170.0,
-          170.5,
-          171.0,
-          171.5,
-          172.0,
-          173.0,
-          174.0,
-          175.0
+          0.167,
+          0.334,
+          0.5,
+          0.667,
+          0.917,
+          1.167,
+          2.167,
+          3.167,
+          4.167,
+          6.167,
+          8.167,
+          10.1670008
         ],
         "Dimension": "Time",
         "Unit": "h"
@@ -53620,6 +53161,341 @@
         "Dimension": "Time",
         "Unit": "h"
       }
+    },
+    {
+      "Name": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE",
+          "Type": "String"
+        },
+        {
+          "Name": "ID",
+          "Value": 1327.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Smith 1984",
+          "Type": "String"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/6478741/",
+          "Type": "String"
+        },
+        {
+          "Name": "Source",
+          "Value": "Fig.1",
+          "Type": "String"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "IV 10 mg Verapamil control",
+          "Type": "String"
+        },
+        {
+          "Name": "Data type",
+          "Value": "aggregated",
+          "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 8.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "Verapamil",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Route",
+          "Value": "IV",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "10 mg",
+          "Type": "String"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 0.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Formulation",
+          "Value": ".",
+          "Type": "String"
+        },
+        {
+          "Name": "Food state",
+          "Value": ".",
+          "Type": "String"
+        },
+        {
+          "Name": "Comment",
+          "Value": ".",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "RelatedColumns": [
+            {
+              "Name": "Var",
+              "QuantityInfo": {
+                "Path": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticStdDev"
+              },
+              "DataInfo": {
+                "Origin": "ObservationAuxiliary",
+                "AuxiliaryType": "ArithmeticStdDev",
+                "MolWeight": 454.6
+              },
+              "Values": [
+                0.19185,
+                "NaN",
+                0.018451,
+                0.017302,
+                0.019076,
+                0.016245,
+                0.014168,
+                0.010131,
+                0.012209,
+                0.0078614,
+                0.006115
+              ],
+              "Dimension": "Concentration (mass)",
+              "Unit": "mg/l"
+            }
+          ],
+          "QuantityInfo": {
+            "Path": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|ObservedData|Peripheral Venous Blood|Plasma|Verapamil|ArithmeticMean"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 454.6,
+            "LLOQ": 5E-09
+          },
+          "Values": [
+            339.58,
+            135.57,
+            55.034,
+            36.566,
+            28.12,
+            24.714,
+            17.981,
+            13.189,
+            11.926,
+            9.5676,
+            6.282
+          ],
+          "Dimension": "Concentration (mass)",
+          "Unit": "ng/ml"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.0333,
+          0.16670002,
+          0.25,
+          0.5,
+          0.75,
+          1.0,
+          1.5,
+          2.0,
+          3.0,
+          4.0,
+          5.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
+    },
+    {
+      "Name": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.",
+      "ExtendedProperties": [
+        {
+          "Name": "DB Version",
+          "Value": "OSP DATABASE",
+          "Type": "String"
+        },
+        {
+          "Name": "ID",
+          "Value": 16141.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Study Id",
+          "Value": "Mikus et al. 1990",
+          "Type": "String"
+        },
+        {
+          "Name": "Reference",
+          "Value": "https://pubmed.ncbi.nlm.nih.gov/2359015/",
+          "Type": "String"
+        },
+        {
+          "Name": "Source",
+          "Value": "Figure 3",
+          "Type": "String"
+        },
+        {
+          "Name": "Grouping",
+          "Value": "160mg verapamil without cimetidine, PO",
+          "Type": "String"
+        },
+        {
+          "Name": "Data type",
+          "Value": "individual",
+          "Type": "String"
+        },
+        {
+          "Name": "N",
+          "Value": 1.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Molecule",
+          "Value": "S-Verapamil",
+          "Type": "String"
+        },
+        {
+          "Name": "Species",
+          "Value": "Human",
+          "Type": "String"
+        },
+        {
+          "Name": "Organ",
+          "Value": "Peripheral Venous Blood",
+          "Type": "String"
+        },
+        {
+          "Name": "Compartment",
+          "Value": "Plasma",
+          "Type": "String"
+        },
+        {
+          "Name": "Route",
+          "Value": "PO",
+          "Type": "String"
+        },
+        {
+          "Name": "Dose",
+          "Value": "160 mg",
+          "Type": "String"
+        },
+        {
+          "Name": "Times of Administration [h]",
+          "Value": 0.0,
+          "Type": "Double"
+        },
+        {
+          "Name": "Formulation",
+          "Value": "oral solution",
+          "Type": "String"
+        },
+        {
+          "Name": "Food state",
+          "Value": "fasted",
+          "Type": "String"
+        },
+        {
+          "Name": "Comment",
+          "Value": ".",
+          "Type": "String"
+        }
+      ],
+      "Columns": [
+        {
+          "Name": "Avg",
+          "QuantityInfo": {
+            "Path": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.|ObservedData|Peripheral Venous Blood|Plasma|S-Verapamil|Individual"
+          },
+          "DataInfo": {
+            "Origin": "Observation",
+            "AuxiliaryType": "Undefined",
+            "MolWeight": 454.611
+          },
+          "Values": [
+            0.031719,
+            0.035278,
+            0.029864,
+            0.027773,
+            0.024431,
+            0.019656,
+            0.016873,
+            0.012695,
+            0.013402,
+            0.010244,
+            0.00806,
+            0.007406,
+            0.006194,
+            0.004835,
+            0.003723
+          ],
+          "Dimension": "Concentration (molar)",
+          "Unit": "µmol/l"
+        }
+      ],
+      "BaseGrid": {
+        "Name": "Time",
+        "QuantityInfo": {
+          "Path": "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.|Time",
+          "Type": "Time"
+        },
+        "DataInfo": {
+          "Origin": "BaseGrid",
+          "AuxiliaryType": "Undefined"
+        },
+        "Values": [
+          0.5,
+          0.75,
+          1.0,
+          1.5,
+          2.0,
+          2.5,
+          3.0,
+          4.0,
+          5.0,
+          6.0,
+          8.0,
+          9.0,
+          11.0,
+          12.0,
+          15.0
+        ],
+        "Dimension": "Time",
+        "Unit": "h"
+      }
     }
   ],
   "ObservedDataClassifications": [
@@ -53637,14 +53513,14 @@
         "Eichelbaum 1984 - Subject 4 - S-Verapamil - IV - 10 mg - Plasma - indiv.",
         "Streit et al. 2005 - intravenous verapamil during normoxia (5 mg) - Norverapamil - IV - 5 mg - Plasma - agg. (n=10)",
         "Abernethy et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.",
-        "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv.",
         "Freedman et al. 1981 - Control Subject (Subject number 4) - Verapamil - IV - 13.1 mg - Plasma - indiv.",
         "Abernethy et al. 1993 - Representative younger subject - Verapamil - IV - 20 mg - Plasma - indiv.",
         "Abernethy et al. 1993 - Representative younger subject - R-Verapamil - IV - 20 mg - Plasma - indiv.",
         "Abernethy et al. 1993 - Representative younger subject - S-Verapamil - IV - 20 mg - Plasma - indiv.",
-        "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)",
         "Johnston 1981 - Verapamil IV - Verapamil - IV - 0.1 mg/kg - Plasma - agg. (n=6)",
-        "Mooy et al. 1985 - Normal volunteers, 3mg IV - Verapamil - IV - 3 mg - Plasma - agg. (n=5)"
+        "Mooy et al. 1985 - Normal volunteers, 3mg IV - Verapamil - IV - 3 mg - Plasma - agg. (n=5)",
+        "Smith 1984 - IV 10 mg Verapamil control - Verapamil - IV - 10 mg - Plasma - agg. (n=8)",
+        "Wing et al. 1985 - 10mg Verapamil without cimetidine, IV - Verapamil - IV - 10 mg - Plasma - indiv."
       ]
     },
     {
@@ -53658,7 +53534,6 @@
         "Karim 1995 - Verapamil total IR fasting - Verapamil - PO - 240 mg - Plasma - agg. (n=12)",
         "Karim 1995 - Verapamil total SR fed - Verapamil - PO - 240 mg - Plasma - agg. (n=12)",
         "Abernethy et al. 1985 - 120mg Verapamil without cimetidine, PO - Verapamil - PO - 120 mg - Plasma - indiv.",
-        "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv.",
         "Vogelgesang et al. 1984 - Healthy volunteers - R-Verapamil - PO - 250 mg - Plasma - indiv.",
         "Choi et al. 2008 - 60mg Verapamil in absence of oral atorvastatin - Verapamil - PO - 60 mg - Arterial Plasma - agg. (n=12)",
         "Choi et al. 2008 - 60mg Verapamil in absence of oral atorvastatin - Norverapamil - PO - 60 mg - Arterial Plasma - agg. (n=12)",
@@ -53674,8 +53549,6 @@
         "Härtter et al. 2012 - 120mg po SD - S-Verapamil - PO - 120 mg - Plasma - agg. (n=19)",
         "Härtter et al. 2012 - 120mg po SD - R-Norverapamil - PO - 120 mg - Plasma - agg. (n=19)",
         "Härtter et al. 2012 - 120mg po SD - S-Norverapamil - PO - 120 mg - Plasma - agg. (n=19)",
-        "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.",
-        "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv.",
         "Blume, Mutschler 1983 - Verapamil - Verapamil - PO - 40 mg - Plasma - agg. (n=12)",
         "Blume, Mutschler 1990 - Verapamil - Verapamil - PO - 40 mg - Plasma - agg. (n=24)",
         "Blume, Mutschler 1989 - Verapamil - Verapamil - PO - 80 mg - Plasma - agg. (n=18)",
@@ -53690,12 +53563,15 @@
         "Maeda 2011 - Verapamil 80 mg - Norverapamil - Norverapamil - PO - 80 mg - Plasma - agg. (n=8)",
         "Sawicki, Janicki 2002 - Healthy volunteers; conventional tablets - Verapamil - PO - 40 mg - Plasma - agg. (n=12)",
         "Sawicki, Janicki 2002 - Healthy volunteers; conventional tablets - Norverapamil - PO - 40 mg - Plasma - agg. (n=12)",
-        "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)",
         "John et al. 1992 - Healthy volunteers - Verapamil - PO - 40 mg - Plasma - agg. (n=6)",
         "Johnston 1981 - Verapamil PO - Verapamil - PO - 120 mg - Plasma - agg. (n=6)",
         "Johnston 1981 - Verapamil PO - Norverapamil - PO - 120 mg - Plasma - agg. (n=6)",
         "Mooy et al. 1985 - Normal volunteers, 80mg PO - Verapamil - PO - 80 mg - Plasma - agg. (n=6)",
-        "Mooy et al. 1985 - Normal volunteers, 80mg PO - Norverapamil - PO - 80 mg - Plasma - agg. (n=6)"
+        "Mooy et al. 1985 - Normal volunteers, 80mg PO - Norverapamil - PO - 80 mg - Plasma - agg. (n=6)",
+        "Smith 1984 - PO 120 mg Verapamil control - Verapamil - PO - 120 mg - Plasma - agg. (n=8)",
+        "Wing et al. 1985 - 80mg Verapamil without cimetidine, PO - Verapamil - PO - 80 mg - Plasma - indiv.",
+        "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - R-Verapamil - PO - 160 mg - Plasma - indiv.",
+        "Mikus et al. 1990 - 160mg verapamil without cimetidine, PO - S-Verapamil - PO - 160 mg - Plasma - indiv."
       ]
     },
     {
@@ -53726,13 +53602,11 @@
       "Name": "IV SD",
       "Classifiables": [
         "iv_R-Verapamil 50 mg (5 min), Eichelbaum 1984, n=1",
-        "iv_Verapamil 10 mg (bol), Smith 1984, n=8",
         "iv_Verapamil 3 mg SD (5min), Mooy 1985, n=5",
         "iv_Verapamil 5 mg SD (5min), Streit 2005, n=10",
         "iv_Verapamil 0.1 mg/kg SD (5min), Johnston 1981, n=6",
         "iv_Verapamil 10mg SD (10min), Abernethy 1985, n=1",
         "iv_Verapamil 10mg SD (10min), Barbarash 1988, n=6",
-        "iv_Verapamil 10mg SD (10min), Wing 1985, n=1",
         "iv_Verapamil 10mg SD (5min), McAllister, Kirsten 1982, n=20",
         "iv_Verapamil 13.1 mg SD (13min), Freedman 1981, n=1",
         "iv_Verapamil 20mg SD (30min), Abernethy 1993, n=1",
@@ -53740,19 +53614,19 @@
         "iv_R-Verapamil 25 mg (5 min), Eichelbaum 1984, n=1",
         "iv_S-Verapamil 5 mg SD (5min), Eichelbaum 1984, n=1",
         "iv_S-Verapamil 7.5 mg SD (5min), Eichelbaum 1984, n=1",
-        "iv_S-Verapamil 10 mg SD (5min), Eichelbaum 1984, n=1"
+        "iv_S-Verapamil 10 mg SD (5min), Eichelbaum 1984, n=1",
+        "iv_Verapamil 10 mg (bol), Smith 1984, n=8",
+        "iv_Verapamil 10mg SD (10min), Wing 1985, n=1"
       ]
     },
     {
       "Name": "PO SD",
       "Classifiables": [
-        "po_Verapamil 120 mg SD (IR), Härtter 2012, n=19",
+        "po_Verapamil 120 mg SD (IR), Haertter 2012, n=19",
         "po_Verapamil 16 mg SD (sol), Maeda 2011, n=8",
         "po_Verapamil 80 mg SD, Mooy 1985, n=6",
         "po_Verapamil 120 mg SD, Johnston 1981, n=6",
         "po_Verapamil 120mg SD, Abernethy 1985, n=1",
-        "po_Verapamil 80mg SD, Wing 1985, n=1",
-        "po_Verapamil 120 mg SD, Smith 1984, n=8",
         "po_R-Verapamil 250mg SD, Vogelgesang 1984, n=1",
         "po_Verapamil 0.1 mg SD (sol), Maeda 2011, n=8",
         "po_Verapamil 3 mg SD (sol), Maeda 2011, n=8",
@@ -53768,12 +53642,14 @@
         "po_Verapamil 120 mg SD, Blume, Mutschler 1987, n=12",
         "po_Verapamil 40 mg SD, Blume, Mutschler 1990, n=24",
         "po_Verapamil 40 mg SD, Blume, Mutschler 1983, n=12",
-        "po_Verapamil 160 mg SD, Mikus 1990, n=1",
         "po_Verapamil 120 mg SD, Barbarash 1988, n=6",
         "po_Verapamil 80mg SD, McAllister, Kirsten 1982, n=20",
         "po_Verapamil 120mg SD, McAllister, Kirsten 1982, n=20",
         "po_Verapamil 160mg SD, McAllister, Kirsten 1982, n=20",
-        "po_Verapamil 240 mg SD, Karim 1995, n=12"
+        "po_Verapamil 240 mg SD, Karim 1995, n=12",
+        "po_Verapamil 120 mg SD, Smith 1984, n=8",
+        "po_Verapamil 80mg SD, Wing 1985, n=1",
+        "po_Verapamil 160 mg SD, Mikus 1990, n=1"
       ]
     },
     {
@@ -53781,7 +53657,7 @@
       "Classifiables": [
         "po_Verapamil 240 mg QD (SR), Blume, Mutschler 1994, n=24",
         "po_Verapamil 80 mg tid 7rep, Johnson 2001, n=12",
-        "po_Verapamil 120 mg (IR) bid 3days, Härtter 2012, n=20",
+        "po_Verapamil 120 mg (IR) bid 3days, Haertter 2012, n=20",
         "po_Verapamil 120 mg MD, Hla 1987, n=10",
         "po_Verapamil 180mg PO BID 3days,van Haarst 2009, n=10",
         "po_Verapamil 80mg PO TID 5rep, Backman 1994, n=9",

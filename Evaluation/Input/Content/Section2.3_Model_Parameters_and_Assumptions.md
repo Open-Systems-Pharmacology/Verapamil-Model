@@ -1,4 +1,4 @@
-﻿### Absorption
+### Absorption
 
 Absorption observed in clinical studies can be fully explained by passive absorption.
 

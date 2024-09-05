@@ -11,8 +11,7 @@
 # 
 # 3. Create a qualification report in R via the commands below:
 #
-source("workflow.R", encoding="UTF-8")
-createQualificationReport("C:/Users/670cf895/Documents/qualificationrunner-portable-setup_11.1.130/QualificationRunner 11.1.130")
+#source("workflow.R", encoding="UTF-8")
 
 
 # All qualification workflow settings, which are specific for 
@@ -115,7 +114,7 @@ createQualificationReport <- function(qualificationRunnerFolder,
   #' If not null, `logLevel` is passed internally via the `--logLevel` option
   logLevel <- NULL
   #' If `overwrite` is set to true, eventual results from the previous run of the QualiRunner/RE will be removed first
-  overwrite <- FALSE
+  overwrite <- TRUE
   
   #-------- STEP 2: Qualification Runner  --------#
   #' Start timer to track time if option `recordWorkflowTime` is set to TRUE
@@ -168,8 +167,8 @@ createQualificationReport <- function(qualificationRunnerFolder,
   }
   
   #' Activate/Deactivate tasks of qualification workflow prior running
-  workflow$inactivateTasks("simulate")
-  workflow$inactivateTasks("calculatePKParameters")
+  # workflow$inactivateTasks("simulate")
+  # workflow$inactivateTasks("calculatePKParameters")
   # workflow$inactivateTasks("plotTimeProfiles")
   # workflow$inactivateTasks("plotComparisonTimeProfile")
   # workflow$inactivateTasks("plotGOFMerged")
@@ -186,3 +185,5 @@ createQualificationReport <- function(qualificationRunnerFolder,
   }
   return(invisible())
 }
+
+

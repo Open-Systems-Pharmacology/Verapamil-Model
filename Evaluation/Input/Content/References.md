@@ -1,4 +1,4 @@
-﻿**Abernethy 1985** Abernethy DR, Schwartz JB, Todd EL. Lack of interaction between verapamil and cimetidine. Clin Pharmacol Ther. 1985 Sep;38(3):342-9. doi: 10.1038/clpt.1985.183. PMID: 4028631.
+**Abernethy 1985** Abernethy DR, Schwartz JB, Todd EL. Lack of interaction between verapamil and cimetidine. Clin Pharmacol Ther. 1985 Sep;38(3):342-9. doi: 10.1038/clpt.1985.183. PMID: 4028631.
 
 **Abernethy 1993** Abernethy DR, Wainer IW, Longstreth JA, Andrawis NS (1993) Stereoselective verapamil disposition and dynamics in aging during racemic verapamil administration. The Journal of pharmacology and experimental therapeutics 266(2):904–11
 
