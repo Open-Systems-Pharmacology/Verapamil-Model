@@ -2,7 +2,7 @@ The general concept of building a PBPK model has previously been described by e.
 
 Variability of plasma proteins and CYP enzymes are integrated into PK-Sim® and described in the publicly available PK-Sim® Ontogeny Database Version 7.3 ([PK-Sim Ontogeny Database Version 7.3](#5-references), [Schlender 2016](#5-references)) or otherwise referenced for the specific process.
 
-First, a base mean model was built and adjusted to clinical data including single and multiple dose studies with oral applications of verapamil to find an appropriate structure to describe the pharmacokinetics in plasma. The mean PBPK model was developed using a typical European individual adjusted to the demography of the respective study population. The relative tissue specific expressions of enzymes predominantly being involved in the metabolism of verapamil were derived from RT-PCR data from [Nishimura 2003](#5-references).
+First, a base mean model was built and adjusted to clinical data including single and multiple dose studies with intravenous (only single dose) and oral applications of verapamil to find an appropriate structure to describe the pharmacokinetics in plasma. The mean PBPK model was developed using a typical European individual adjusted to the demography of the respective study population.
 
 Unknown parameters (see below) were identified using the Parameter Identification module provided in PK-Sim®. Structural model selection was mainly guided by visual inspection of the resulting description of data and biological plausibility.
 
