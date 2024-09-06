@@ -1,6 +1,6 @@
 ### Absorption
 
-Absorption observed in clinical studies can be fully explained by passive absorption.
+Verapamil is transported by P-gp. The model includes non-stereospecific P-gp transport. 
 
 ### Distribution
 
