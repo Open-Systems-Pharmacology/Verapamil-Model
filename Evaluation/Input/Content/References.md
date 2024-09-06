@@ -50,7 +50,7 @@
 
 **Maeda 2011** Maeda K, Takano J, Ikeda Y, Fujita T, Oyama Y, Nozawa K, Kumagai Y, Sugiyama Y (2011) Nonlinear pharmacokinetics of oral quinidine and verapamil in healthy subjects: a clinical microdosing study. Clinical pharmacology and therapeutics 90(2):263–70
 
-**McAllister 1982** McAllister RG Jr, Kirsten EB. The pharmacology of verapamil. IV. Kinetic and dynamic effects after single intravenous and oral doses. Clin Pharmacol Ther. 1982 Apr;31(4):418-26.aeda K, Takano J, Ikeda Y, Fujita T, Oyama Y, Nozawa K, Kumagai Y, Sugiyama Y. Nonlinear pharmacokinetics of oral quinidine and verapamil in healthy subjects: a clinical microdosing study. Clin Pharmacol Ther. 2011 Aug;90(2):263-70.
+**McAllister 1982** McAllister RG Jr, Kirsten EB. The pharmacology of verapamil. IV. Kinetic and dynamic effects after single intravenous and oral doses. Clin Pharmacol Ther. 1982 Apr;31(4):418-26.
 
 **Mikus 1990** Mikus G, Eichelbaum M, Fischer C, Gumulka S, Klotz U, Kroemer HK (1990) Interaction of verapamil and cimetidine: stereochemical aspects of drug metabolism, drug disposition and drug action. The Journal of pharmacology and experimental therapeutics 253(3):1042–8
 
