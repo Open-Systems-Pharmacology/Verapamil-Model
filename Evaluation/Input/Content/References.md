@@ -82,7 +82,7 @@
 
 **Shirasaka 2008** Shirasaka Y, Sakane T, Yamashita S. Effect of P-glycoprotein expression levels on the concentration-dependent permeability of drugs to the cell membrane. J Pharm Sci. 2008 Jan;97(1):553-65. doi: 10.1002/jps.21114. PMID: 17828734.
 
-**Sigma-Aldrich 2013** Sigma-Aldrich Inc (2013) A Case Study in SPE Method Development - Understanding the Dual Interaction Properties of Discovery DSC-SCX SPE Using Verapamil (and Metabolite) from Serum as a Test Example. https://www.sigmaaldrich.com/technical-documents/articles/reporter-eu/a-case-study-in-spe.html, accessed: 2020-02-25
+**Sigma-Aldrich 2013** Sigma-Aldrich Inc (2013) A Case Study in SPE Method Development - Understanding the Dual Interaction Properties of Discovery DSC-SCX SPE Using Verapamil (and Metabolite) from Serum as a Test Example.
 
 **Smith 1984** Smith MS, Benyunes MC, Bjornsson TD, Shand DG, Pritchett EL (1984) Influence of cimetidine on verapamil kinetics and dynamics. Clinical pharmacology and therapeutics 36(4):551–4
 
