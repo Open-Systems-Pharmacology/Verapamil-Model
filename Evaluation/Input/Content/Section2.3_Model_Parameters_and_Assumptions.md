@@ -6,7 +6,7 @@ Verapamil is transported by P-gp. The model includes non-stereospecific P-gp tra
 
 After testing the available organ-plasma partition coefficient and cell permeability calculation methods built in PK-Sim, observed clinical data was best described by choosing the partition coefficient calculation by `Rodgers and Rowland` and cellular permeability calculation by `PK-Sim Standard`. 
 
-### Metabolism, Elimination and Induction
+### Metabolism, Elimination and Inhibition
 
 Verapamil is metabolized by CYP3A4 and transported by P-gp. The model includes enantioselective metabolism by CYP3A4, non-stereospecific P-gp transport. Additionally passive glomerular filtration was integrated. 
 

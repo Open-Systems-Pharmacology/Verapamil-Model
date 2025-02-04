@@ -10,13 +10,13 @@ A literature search was performed to collect available information on physiochem
 | pK<sub>a</sub> (base)  | -  | 8.75          | [Hasegawa 1984](#5-references)              | Acid dissociation constant                      |
 | Solubility (pH 6.54) | g/L     | 46.0 | [Vogelpoel 2004](#5-references)    | Water solubility                               |
 | logP            |  | 3.79                       | [Hansch  1995](#5-references) | Partition coefficient between octanol and water |
-| fu              |  %       | 5.1 | [**Sanaee 2011**](#5-references) | Fraction unbound in plasma                      |
+| fu              |  %       | 5.1 | [Sanaee 2011](#5-references) | Fraction unbound in plasma                      |
 | CYP3A4 Km -> Norvera            | µmol/L | 19.59 | [Wang 2013](#5-references) | CYP3A4 Michaelis-Menten constant for norverapamil formation    |
 | CYP3A4 Km -> D617		  | µmol/L | 35.34 | [Wang 2013](#5-references) | CYP3A4 Michaelis-Menten constant for D617 formation    |
 | P-gp Km		  | µmol/L | 1.01 | [Shirasaka 2008](#5-references) | Pgp Michaelis-Menten constant    |
 | CYP3A4 MBI KI		  | µmol/L | 27.63 | [Wang 2013](#5-references) | Conc. for half-maximal inactivation    |
 | CYP3A4 MBI kinact		  | 1/min | 0.038 | [Wang 2013](#5-references) | Maximum inactivation rate    |
-| Pgp non-competitive Ki		  | µmol/L | 0.31 | Döppenschmitt 1999 (#5-references) | Conc. for half-maximal inactivation    |
+| Pgp non-competitive Ki		  | µmol/L | 0.31 | [Döppenschmitt 1999](#5-references) | Conc. for half-maximal inactivation    |
 
 #### S-verapamil
 

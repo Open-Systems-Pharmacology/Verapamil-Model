@@ -453,7 +453,7 @@
       ]
     },
     {
-      "Name": "Eichelbaum 1984, n=1\u001f",
+      "Name": "Eichelbaum 1984, n=1",
       "Seed": -2045030578,
       "OriginData": {
         "CalculationMethods": [
@@ -6627,7 +6627,7 @@
           "ObservedData": "Eichelbaum 1984 - Subject 4 - R-Verapamil - IV - 50 mg - Plasma - indiv."
         }
       ],
-      "Individual": "Eichelbaum 1984, n=1\u001f",
+      "Individual": "Eichelbaum 1984, n=1",
       "Compounds": [
         {
           "Name": "R-Verapamil",
@@ -20030,7 +20030,7 @@
           "ObservedData": "Eichelbaum 1984 - Subject 4 - R-Verapamil - IV - 5 mg - Plasma - indiv."
         }
       ],
-      "Individual": "Eichelbaum 1984, n=1\u001f",
+      "Individual": "Eichelbaum 1984, n=1",
       "Compounds": [
         {
           "Name": "R-Verapamil",
@@ -20291,7 +20291,7 @@
           "ObservedData": "Eichelbaum 1984 - Subject 4 - R-Verapamil - IV - 25 mg - Plasma - indiv."
         }
       ],
-      "Individual": "Eichelbaum 1984, n=1\u001f",
+      "Individual": "Eichelbaum 1984, n=1",
       "Compounds": [
         {
           "Name": "R-Verapamil",
@@ -20549,7 +20549,7 @@
           "ObservedData": "Eichelbaum 1984 - Subject 4 - S-Verapamil - IV - 5 mg - Plasma - indiv."
         }
       ],
-      "Individual": "Eichelbaum 1984, n=1\u001f",
+      "Individual": "Eichelbaum 1984, n=1",
       "Compounds": [
         {
           "Name": "S-Verapamil",
@@ -20813,7 +20813,7 @@
           "ObservedData": "Eichelbaum 1984 - Subject 4 - S-Verapamil - IV - 7.5 mg - Plasma - indiv."
         }
       ],
-      "Individual": "Eichelbaum 1984, n=1\u001f",
+      "Individual": "Eichelbaum 1984, n=1",
       "Compounds": [
         {
           "Name": "S-Verapamil",
@@ -21077,7 +21077,7 @@
           "ObservedData": "Eichelbaum 1984 - Subject 4 - S-Verapamil - IV - 10 mg - Plasma - indiv."
         }
       ],
-      "Individual": "Eichelbaum 1984, n=1\u001f",
+      "Individual": "Eichelbaum 1984, n=1",
       "Compounds": [
         {
           "Name": "S-Verapamil",

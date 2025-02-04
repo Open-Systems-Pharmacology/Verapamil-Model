@@ -1,4 +1,4 @@
-The PBPK model for verapamil was developed and evaluated using publically available, clinical pharmacokinetic data from studies listed in [Section 2.2.2](#222-clinical-data).
+The PBPK model for verapamil was developed and evaluated using publically available, clinical pharmacokinetic data from studies listed in [Section 2.2](#clinical-data).
 
 The next sections show:
 
