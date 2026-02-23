@@ -64,7 +64,7 @@ A literature search was performed to collect available information on physiochem
 
 | **Parameter**   | **Unit** | **Value**       | Source                                                       | **Description**                                 |
 | :-------------- | -------- | --------------- | ------------------------------------------------------------ | ----------------------------------------------- |
-| EHC continous fraction            |    | 1    | Assumption                                | EHC continous fraction                              |
+| EHC continuous fraction           |    | 1    | Assumption                                | EHC continuous fraction                             |
 
 
 ### Clinical Data
