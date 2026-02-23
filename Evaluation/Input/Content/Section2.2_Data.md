@@ -60,7 +60,11 @@ A literature search was performed to collect available information on physiochem
 | CYP3A4 MBI kinact		  | 1/min | 0.080 | [Wang 2013](#5-references) | Maximum inactivation rate    |
 | Pgp non-competitive Ki		  | µmol/L | 0.30 | [Pauli-Magnus 2000](#5-references) | Conc. for half-maximal inactivation    |
 
+#### Individual
 
+| **Parameter**   | **Unit** | **Value**       | Source                                                       | **Description**                                 |
+| :-------------- | -------- | --------------- | ------------------------------------------------------------ | ----------------------------------------------- |
+| EHC continous fraction            |    | 1    | Assumption                                | EHC continous fraction                              |
 
 
 ### Clinical Data

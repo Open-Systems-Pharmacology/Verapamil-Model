@@ -8,7 +8,7 @@ After testing the available organ-plasma partition coefficient and cell permeabi
 
 ### Metabolism, Elimination and Inhibition
 
-Verapamil is metabolized by CYP3A4 and transported by P-gp. The model includes enantioselective metabolism by CYP3A4, non-stereospecific P-gp transport. Additionally passive glomerular filtration was integrated. 
+Verapamil is metabolized by CYP3A4 and transported by P-gp. The model includes enantioselective metabolism by CYP3A4, non-stereospecific P-gp transport. Additionally passive glomerular filtration was integrated. For biliary excretion, an EHC continous fraction of 1 was assumed. 
 
 Mechanism-based inactivation of CYP3A4 and non-competitive inhibition of P-gp by all four entities (S-verapamil, R-verapamil, S-norverapamil and R-norverapamil) was taken into account. The CYP3A4 MBI KI and kinact values were taken from literature, the KI values for P-gp inhibition were optimized.
 
@@ -18,7 +18,6 @@ Mechanism-based inactivation of CYP3A4 and non-competitive inhibition of P-gp by
 The parameter identification tool in PK-Sim has been used to estimate selected model parameters by adjusting to PK data of the clinical studies that were used in the model building process. 
 
 The result of the final parameter identification is shown in the tables below:
-
 
 #### R-verapamil
 
@@ -75,3 +74,7 @@ The result of the final parameter identification is shown in the tables below:
 | Intestinal permeability       |  3.54E-06	|cm/min|
 
 
+#### Individual
+| Model Parameter            | Optimized Value | Unit |
+| -------------------------- | --------------- | ---- |
+| EHC continous fraction           		|  1 	||
