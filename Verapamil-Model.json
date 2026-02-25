@@ -25948,6 +25948,8 @@
               "Type": "X",
               "GridLines": false,
               "Visible": true,
+              "Min": 48,
+              "Max": 62,
               "DefaultColor": "#FFFFFF",
               "DefaultLineStyle": "None",
               "Scaling": "Linear",

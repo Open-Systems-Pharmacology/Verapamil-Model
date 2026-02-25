@@ -78,4 +78,4 @@ The result of the final parameter identification is shown in the tables below:
 
 | Model Parameter            | Optimized Value | Unit |
 | -------------------------- | --------------- | ---- |
-| EHC continous fraction           		|  1 	||
+| EHC continuous fraction           		|  1 	||
