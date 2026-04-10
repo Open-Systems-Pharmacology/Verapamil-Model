@@ -1,7 +1,7 @@
 # Verapamil-Model
 Whole-body PBPK model of verapamil and norverapamil as CYP3A4 and P-gp perpetrator drug 
 
-<a title="Verapamil" href="https://commons.wikimedia.org/wiki/File:Verapamil_structure.svg"><img width="512" alt="Verapamil structure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Verapamil_structure.svg/512px-Verapamil_structure.svg.png"></a>
+<a title="Verapamil" href="https://commons.wikimedia.org/wiki/File:Verapamil_structure.svg"><img width="512" alt="Verapamil structure" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Verapamil_structure.svg"></a>
 
 
 
@@ -34,4 +34,4 @@ The model code is distributed under the [GPLv2 License](https://github.com/Open-
 
 ## References
 
-[1] [Hanke N, Türk D, Selzer D, Wiebe S, Fernandez É, Stopfer P, Nock V, Lehr T. A Mechanistic, Enantioselective, Physiologically Based Pharmacokinetic Model of Verapamil and Norverapamil, Built and Evaluated for Drug-Drug Interaction Studies. Pharmaceutics. 2020 Jun 16;12(6):556. doi: 10.3390/pharmaceutics12060556. PMID: 32560124; PMCID: PMC7355632.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355632/)
+[1] [Hanke N, Tï¿½rk D, Selzer D, Wiebe S, Fernandez ï¿½, Stopfer P, Nock V, Lehr T. A Mechanistic, Enantioselective, Physiologically Based Pharmacokinetic Model of Verapamil and Norverapamil, Built and Evaluated for Drug-Drug Interaction Studies. Pharmaceutics. 2020 Jun 16;12(6):556. doi: 10.3390/pharmaceutics12060556. PMID: 32560124; PMCID: PMC7355632.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7355632/)
